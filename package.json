@@ -1,6 +1,7 @@
 {
   "name": "kds-blog",
   "description": "Blog for KDSherm",
+  "repository": "https://github.com/ksherman/kds-site-gatsby",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
