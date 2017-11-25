@@ -6,7 +6,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-typography',
       options: {
-        pathToConfigModule: 'src/utils/typography.js',
+        pathToConfigModule: 'src/styles/typography.js',
       },
     },
     {
@@ -15,5 +15,6 @@ module.exports = {
         fonts: ['Didact Gothic', 'Arimo'],
       },
     },
+    'gatsby-plugin-sass',
   ],
 };
