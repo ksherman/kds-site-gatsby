@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'gatsby-link';
-import styles from '../scss/entry.scss';
+import styles from '../styles/entry.scss';
 
 const SiteLink = props => (
   <li style={{ display: 'inline-block', marginRight: '1rem' }}>
@@ -17,6 +17,7 @@ export default ({ children, data }) => (
       <ul style={{ listStyle: 'none', foat: 'right' }}>
         <SiteLink to="/">Home</SiteLink>
         <SiteLink to="/about">About</SiteLink>
+        <SiteLink to="/all-posts">All Posts</SiteLink>
       </ul>
     </header>
 
