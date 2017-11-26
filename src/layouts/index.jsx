@@ -1,35 +1,49 @@
 import React from 'react';
 import Link from 'gatsby-link';
-import styles from '../styles/entry.scss';
-
-const SiteLink = props => (
-  <li style={{ display: 'inline-block', marginRight: '1rem' }}>
-    <Link to={props.to}>{props.children}</Link>
-  </li>
-);
+import SidebarPostNavigation from './sidebar-post-navigation';
+import '../styles/entry.scss';
 
 export default ({ children, data }) => (
-  <div style={{ margin: '0 auto', maxWidth: 600, color: 'tomato' }}>
-    <header>
-      <Link to="/">
+  <div className="site-wrapper">
+    <nav className="sidebar-primary-navigation">
+      <Link to="/" className="site-title">
         <h1>{data.site.siteMetadata.title}</h1>
       </Link>
-      <ul style={{ listStyle: 'none', foat: 'right' }}>
-        <SiteLink to="/">Home</SiteLink>
-        <SiteLink to="/about">About</SiteLink>
-        <SiteLink to="/all-posts">All Posts</SiteLink>
-      </ul>
-    </header>
-
+      <div className="link-list">
+        <Link className="link-list-item" to="/">
+          Home
+        </Link>
+        <Link className="link-list-item" to="/about">
+          About
+        </Link>
+      </div>
+    </nav>
+    <SidebarPostNavigation posts={data.allMarkdownRemark.edges} />
     {children()}
   </div>
 );
 
 export const query = graphql`
-  query LayoutQuery {
+  query MainLayoutQuery {
     site {
       siteMetadata {
         title
+      }
+    }
+    allMarkdownRemark(sort: { fields: [frontmatter___title], order: ASC }) {
+      totalCount
+      edges {
+        node {
+          id
+          excerpt
+          frontmatter {
+            title
+            author
+          }
+          fields {
+            slug
+          }
+        }
       }
     }
   }

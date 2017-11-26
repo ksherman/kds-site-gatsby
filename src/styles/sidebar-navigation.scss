@@ -1,0 +1,55 @@
+.sidebar-primary-navigation {
+  width: 32rem;
+  height: 100vh;
+  background-color: $color-dark;
+
+  .site-title {
+    display: block;
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+    padding: 2rem;
+    text-align: center;
+    border-bottom: 1px solid lighten($color-dark, 10%);
+  }
+
+  .link-list {
+    text-align: center;
+    font-size: 2rem;
+    padding: 2rem 0;
+
+    .link-list-item {
+      display: block;
+      padding: 2rem;
+      color: white;
+      text-decoration: none;
+
+      &:hover {
+        background-color: darken($color-dark, 5%);
+      }
+    }
+  }
+}
+
+.sidebar-post-navigation {
+  width: 32rem;
+  height: 100vh;
+  background-color: $color-dark;
+
+  .post-list {
+    text-align: center;
+    font-size: 2rem;
+    padding: 2rem 0;
+
+    .post-list-item {
+      display: block;
+      padding: 2rem;
+      color: white;
+      text-decoration: none;
+
+      &:hover {
+        background-color: darken($color-dark, 5%);
+      }
+    }
+  }
+}
