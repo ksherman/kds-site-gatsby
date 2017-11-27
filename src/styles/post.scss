@@ -1,6 +1,22 @@
-.list-wrapper {
-  .list-post {
-    padding: 1rem;
-    border-bottom: 1px solid red;
+.single-post-wrapper {
+  padding: 6rem;
+  overflow-y: scroll;
+
+  h2 {
+    font-size: 3rem;
+    margin: 0;
   }
+
+  img {
+    max-width: 100%;
+  }
+}
+
+.single-post-author {
+  font-size: 1.5rem;
+  color: $color-dark;
+}
+
+.single-post-body {
+  font-size: 1.6rem;
 }
