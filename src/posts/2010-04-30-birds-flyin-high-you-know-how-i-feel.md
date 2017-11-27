@@ -1,7 +1,7 @@
 ---
-title: 'Birds Flyin&#8217; High, You Know How I Feel'
+title: Birds Flyin' High, You Know How I Feel
 author: ksherman
-layout: post
+
 permalink: /2010/birds-flyin-high-you-know-how-i-feel/
 aktt_notify_twitter:
   - yes
@@ -13,9 +13,10 @@ categories:
   - Engagements
   - illuminations
 ---
+
 New post!
 
-Engagement pictures of the couple who&#8217;s wedding I&#8217;m shooting in a few weeks! Kinda funky because Noah and Mackenzie are both into wedding photography, pretty much posed themselves!
+Engagement pictures of the couple who's wedding I'm shooting in a few weeks! Kinda funky because Noah and Mackenzie are both into wedding photography, pretty much posed themselves!
 
 <p style="text-align: center;">
   <img class="aligncenter" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2010PostsImages/04-APR/NoahMackenzie_1DM33805_01.jpg" alt="NoahMac1" />
@@ -63,7 +64,7 @@ Engagement pictures of the couple who&#8217;s wedding I&#8217;m shooting in a fe
 
 Another one down the hatch! Just bought a refurbished 5D Mark II, gonna sell the 7D. Really not enjoying the 1.6x crop sensor. Full-frame FTW!
 
-Peace  
-&#8211; KS
+Peace\
+– KS
 
-Today&#8217;s title is brought to you by Nina Simone from her song &#8220;Feeling Good&#8221;
+Today's title is brought to you by Nina Simone from her song "Feeling Good"

@@ -1,7 +1,7 @@
 ---
 title: It Takes a Lot to Really Fake You
 author: ksherman
-layout: post
+
 permalink: /2010/it-takes-a-lot-to-really-fake-you/
 aktt_tweeted:
   - 1
@@ -13,7 +13,7 @@ categories:
   - California
   - illuminations
 ---
-Some mo&#8217; pictures from awesome California.
+Some mo' pictures from awesome California.
 
 The weather here (near the coast anyway) is amazing. I can totally see why some people come here and never leave.<figure style="width: 800px;" class="wp-caption aligncenter">
 
@@ -54,22 +54,22 @@ The weather here (near the coast anyway) is amazing. I can totally see why some 
 Not much else at this point! Still in limbo in surgery world. Been running around a bunch. So glad I still have a whole week left here.
 
 Peace  
-&#8211; KS
+– KS
 
-Today&#8217;s title is from the some &#8220;For You My Dear&#8221; by Steel Train from their album For You My Dear. My current obsession (on so many levels!).
+Today's title is from the some "For You My Dear" by Steel Train from their album For You My Dear. My current obsession (on so many levels!).
 
 > It takes a lot to really fake you and leave you bare  
-> And I&#8217;ll never forsake you
+> And I'll never forsake you
 > 
 > You can stand on the edge till you find the pledge you made  
 > Once upon your stolen seeds  
-> But to hold the dreams and never believe you&#8217;ll leave all the schemes  
+> But to hold the dreams and never believe you'll leave all the schemes  
 > That held you up inside
 > 
 > For you my dear  
 > I can fall from heights
 > 
-> And it&#8217;s all I can do  
+> And it's all I can do  
 > As I slide to you  
 > And brake when we fall
 > 
@@ -78,9 +78,9 @@ Today&#8217;s title is from the some &#8220;For You My Dear&#8221; by Steel Trai
 > And so I look to the floor for the one I adore  
 > And in place is the face that shines so bright I believe
 > 
-> Don&#8217;t you turn away
+> Don't you turn away
 > 
-> Don&#8217;t deny what makes you  
-> And in me you&#8217;ll see the one who&#8217;ll forsake you
+> Don't deny what makes you  
+> And in me you'll see the one who'll forsake you
 
  [1]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2010PostsImages/05-MAY/053010_Cali1.jpg

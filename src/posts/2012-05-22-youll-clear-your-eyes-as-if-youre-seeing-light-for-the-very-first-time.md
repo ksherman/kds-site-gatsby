@@ -1,7 +1,7 @@
 ---
-title: 'You&#8217;ll Clear Your Eyes As if You&#8217;re Seeing Light for the Very First Time'
+title: You'll Clear Your Eyes As if You're Seeing Light for the Very First Time
 author: ksherman
-layout: post
+
 permalink: /2012/youll-clear-your-eyes-as-if-youre-seeing-light-for-the-very-first-time/
 avid_featured_slider:
   - 
@@ -16,6 +16,7 @@ categories:
   - illuminations
   - Weddings
 ---
+
 <img class="aligncenter" title="Dave and Christine Reznicek Chicago Wedding" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/wp-content/uploads/2012/05/Dave-and-Christine-Reznicek-01.jpg" alt="Dave and Christine Reznicek Chicago Wedding" width="900" />  
 <img class="aligncenter" title="Dave and Christine Reznicek Chicago Wedding" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/wp-content/uploads/2012/05/Dave-and-Christine-Reznicek-02.jpg" alt="Dave and Christine Reznicek Chicago Wedding" width="900" />  
 <img class="aligncenter" title="Dave and Christine Reznicek Chicago Wedding" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/wp-content/uploads/2012/05/Dave-and-Christine-Reznicek-03.jpg" alt="Dave and Christine Reznicek Chicago Wedding" width="900" />  
@@ -76,9 +77,9 @@ categories:
 
 Another wedding! Gosh, these are soooo much fun. Experimented a little with using an AB800 on the dance floor. Worked out for the most part, have a few technical issues to work out for next time. I shot this wedding as a second with Robb Davidson, [check out his post][1] [he gets all the fun stuff :)].
 
-Peace,  
-&#8211; KS
+Peace,\
+– KS
 
-Today&#8217;s title comes from the song &#8220;Goes On and On&#8221; from Sleeping At Last&#8217;s Yearbook series [September].
+Today's title comes from the song "Goes On and On" from Sleeping At Last's Yearbook series [September].
 
- [1]: http://robb-davidson.com/weddings/dave-and-christine-reznicek-married-in-chicago-battled-the-nato-craziness-and-won-on-many-levels/
+[1]: http://robb-davidson.com/weddings/dave-and-christine-reznicek-married-in-chicago-battled-the-nato-craziness-and-won-on-many-levels/

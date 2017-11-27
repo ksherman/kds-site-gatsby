@@ -1,7 +1,7 @@
 ---
 title: Gather Your Thoughts for the Second Wave
 author: ksherman
-layout: post
+
 permalink: /2010/gather-your-thoughts-for-the-second-wave/
 aktt_notify_twitter:
   - yes
@@ -40,9 +40,9 @@ Wedding this past weekend! Was a lot of fun, shooting with Robb Davidson. He bro
 Thanks for watching!
 
 Peace  
-&#8211; KS
+– KS
 
-Today&#8217;s titles comes to you from the song &#8220;Goodbye Waves and Driveways&#8221; by the Rocket Summer on the album Hello, Good Friend. Love this song.
+Today's titles comes to you from the song "Goodbye Waves and Driveways" by the Rocket Summer on the album Hello, Good Friend. Love this song.
 
  [1]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2010PostsImages/01-Jan/12/JamesKim-1.jpg
  [2]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2010PostsImages/01-Jan/12/JamesKim-2.jpg

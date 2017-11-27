@@ -1,7 +1,7 @@
 ---
 title: The World Begins With New Born Skin
 author: ksherman
-layout: post
+
 permalink: /2010/the-world-begins-with-new-born-skin/
 aktt_notify_twitter:
   - yes
@@ -23,6 +23,6 @@ Did something a little different this go around. Trying to be a little more crea
 </p>
 
 Peace  
-&#8211; KS
+– KS
 
-Today&#8217;s title is from &#8220;Needle in a Haystack Life&#8221; by Switchfoot from their album Hello, Hurricane.
+Today's title is from "Needle in a Haystack Life" by Switchfoot from their album Hello, Hurricane.

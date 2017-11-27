@@ -25,5 +25,5 @@ categories:
 </p>
 
 <p style="text-align: left;">
-  Thanks for watching!<br /> &#8211; KS
+  Thanks for watching!<br /> – KS
 </p>

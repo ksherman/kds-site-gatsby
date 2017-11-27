@@ -1,7 +1,7 @@
 ---
-title: 'Don&#8217;t Think Twice, It&#8217;s All Right'
+title: Don't Think Twice, It's All Right
 author: ksherman
-layout: post
+
 permalink: /2009/dont-think-twice-its-all-right/
 aktt_notify_twitter:
   - yes
@@ -13,6 +13,7 @@ categories:
   - illuminations
   - Weddings
 ---
+
 Post!
 
 <p style="text-align: left;">
@@ -79,11 +80,11 @@ Post!
   <img src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/December/28/AJyJenni_15.jpg" alt="" />
 </p>
 
-Still trying to land some pay from The Daily Herald. Getting close I feel. Otherwise, grad school is coming up! Can&#8217;t believe 2009 is coming to an end. Well, yes I can. Moving out in about a week, should be interesting!
+Still trying to land some pay from The Daily Herald. Getting close I feel. Otherwise, grad school is coming up! Can't believe 2009 is coming to an end. Well, yes I can. Moving out in about a week, should be interesting!
 
 See ya around. Might have some basketball to post this week.
 
-Peace  
-&#8211; KS
+Peace\
+– KS
 
-Today&#8217;s title is brought to you by Bob Dylan&#8217;s song &#8220;Don&#8217;t Think Twice, It&#8217;s All Right.&#8221; What a song writer.
+Today's title is brought to you by Bob Dylan's song "Don't Think Twice, It's All Right." What a song writer.

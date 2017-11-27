@@ -1,7 +1,7 @@
 ---
 title: But All I Can Do is Speak From the Heart
 author: ksherman
-layout: post
+
 permalink: /2010/but-all-i-can-do-is-speak-from-the-heart/
 aktt_notify_twitter:
   - yes
@@ -13,7 +13,7 @@ categories:
   - illuminations
   - Video
 ---
-Video time! I&#8217;ve been working on this for over a week, in my spare (ha!) time. First thing I&#8217;ve put together using footage from my 7D. There is about 10 or 12 things I would have done differently knowing what I know now&#8230; But I guess that&#8217;s learning!
+Video time! I've been working on this for over a week, in my spare (ha!) time. First thing I've put together using footage from my 7D. There is about 10 or 12 things I would have done differently knowing what I know now... But I guess that's learning!
 
 
 
@@ -27,14 +27,14 @@ Edited in Adobe Premiere Pro and title text done in Adobe After Effects.
 
 \___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___
 
-Let me know what you think. I&#8217;m by no means a video expert or professional, just takin&#8217; a stab at something new. I&#8217;d write more, but I&#8217;m super tired. Long day.
+Let me know what you think. I'm by no means a video expert or professional, just takin' a stab at something new. I'd write more, but I'm super tired. Long day.
 
-Oh, and I love the duo of Adobe After Effects and Adobe Premiere Pro. I &#8216;lol&#8217; at Final Cut Studio.
+Oh, and I love the duo of Adobe After Effects and Adobe Premiere Pro. I &#8216;lol' at Final Cut Studio.
 
 Peace  
-&#8211; KS
+– KS
 
-Today&#8217;s title comes from the song &#8220;You Gotta Believe&#8221; by The Rocket Summer from his latest album Of Men and Angels. I just downloaded this album this afternoon and I absolutely love it!
+Today's title comes from the song "You Gotta Believe" by The Rocket Summer from his latest album Of Men and Angels. I just downloaded this album this afternoon and I absolutely love it!
 
  [1]: http://vimeo.com/9937211
  [2]: http://vimeo.com/user1031377

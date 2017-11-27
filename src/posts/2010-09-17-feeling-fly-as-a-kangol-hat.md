@@ -1,7 +1,7 @@
 ---
 title: Feeling Fly As a Kangol Hat
 author: ksherman
-layout: post
+
 permalink: /2010/feeling-fly-as-a-kangol-hat/
 aktt_tweeted:
   - 1
@@ -15,9 +15,9 @@ categories:
 ---
 Hello all!
 
-Been crazy out-of-my-mind the last few weeks, lots going on&#8230; But more on that some other day! Instead, to whet your appetites, I have some aerial photographs! Most of these are of Judson University, but not all! Everything looks sooooo cool from 1,000-1,200 feet! Only wish the sun had peaked from the clouds more while we were up and that the windows weren&#8217;t so cloudy. But it was still a fun experience!
+Been crazy out-of-my-mind the last few weeks, lots going on... But more on that some other day! Instead, to whet your appetites, I have some aerial photographs! Most of these are of Judson University, but not all! Everything looks sooooo cool from 1,000-1,200 feet! Only wish the sun had peaked from the clouds more while we were up and that the windows weren't so cloudy. But it was still a fun experience!
 
-Note: some of these might take a little longer to open, trust me, it&#8217;s worth it!
+Note: some of these might take a little longer to open, trust me, it's worth it!
 
 <p style="text-align: center;">
   <img class="aligncenter" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2010PostsImages/09-SEPT/JudsonAerial-1.jpg" alt="Aerial1" />
@@ -82,6 +82,6 @@ Note: some of these might take a little longer to open, trust me, it&#8217;s wor
 Thanks for stopping by! Exciting things on the horizon!
 
 Peace  
-&#8211; KS
+– KS
 
-Today&#8217;s title was take from the dong &#8220;Feelin&#8217; So Fly&#8221; by Toby Mac from his album Portable Sounds
+Today's title was take from the dong "Feelin' So Fly" by Toby Mac from his album Portable Sounds

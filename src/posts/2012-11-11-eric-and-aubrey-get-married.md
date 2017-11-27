@@ -1,7 +1,7 @@
 ---
 title: Eric and Aubrey get Married!
-subtitle: Through the Sunshine, Through the Rain, I&#8217;m Gonna Be Her Prize Fighter
-layout: post
+subtitle: Through the Sunshine, Through the Rain, I'm Gonna Be Her Prize Fighter
+
 
 categories:
   - illuminations
@@ -122,9 +122,9 @@ Yay! I had the privilege of photographing the wedding of Eric and Aubrey Abernat
   
 <img class="aligncenter size-full wp-image-1280" title="Abernathy56" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/wp-content/uploads/2012/11/Abernathy56.jpg" alt="" width="1140" height="760" /></a>
 
-I&#8217;ve known Aubree for a few years, she&#8217;s the sister of one of my best friends. She&#8217;s such a loving and fun person and is quite a talented florist as well (she did the flowers for my wedding!). The first time I met Eric, he played a crazy Kruse board game with us. He&#8217;s an amazing man of God and has a lot of love. I wish these two all the best!
+I've known Aubree for a few years, she's the sister of one of my best friends. She's such a loving and fun person and is quite a talented florist as well (she did the flowers for my wedding!). The first time I met Eric, he played a crazy Kruse board game with us. He's an amazing man of God and has a lot of love. I wish these two all the best!
 
 Peace  
-&#8211; KS
+– KS
 
-Today&#8217;s title is from the song &#8220;Prize Fighter&#8221; by The Killers from their album Battleborn. I&#8217;ve listened to this album about 89 times and still love it!
+Today's title is from the song "Prize Fighter" by The Killers from their album Battleborn. I've listened to this album about 89 times and still love it!

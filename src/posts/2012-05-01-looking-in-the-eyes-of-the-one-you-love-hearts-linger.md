@@ -1,7 +1,7 @@
 ---
 title: Looking in the Eyes of the One You Love, Hearts Linger
 author: ksherman
-layout: post
+
 permalink: /2012/looking-in-the-eyes-of-the-one-you-love-hearts-linger/
 aktt_notify_twitter:
   - yes
@@ -247,9 +247,9 @@ Hey all! Shot a wedding with the effervescent Robb Davidson! Was a blast.
   <img src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/wp-content/uploads/2012/05/DuquetteWedding-76.jpg" alt="" />
 </p>
 
-Thanks for viewing! More to come. I&#8217;ve been shooting a lot lately, feels great.
+Thanks for viewing! More to come. I've been shooting a lot lately, feels great.
 
 Peace  
-&#8211; KS
+– KS
 
-Today&#8217;s title is from Augustana&#8217;s song &#8220;Hearts Wander&#8221; from their self-titled album.
+Today's title is from Augustana's song "Hearts Wander" from their self-titled album.

@@ -1,7 +1,7 @@
 ---
 title: Mighta Been Standing on the Top of the World
 author: ksherman
-layout: post
+
 permalink: /2010/mighta-been-standing-on-the-top-of-the-world/
 aktt_notify_twitter:
   - yes
@@ -72,7 +72,7 @@ Wedding time! Early in July I second shot a wedding with the ever turbo Robb Dav
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2010PostsImages/07-JULY/070310_JaredKelly-14.jpg" alt="JaredandKellyHall14" />Yup, that&#8217;s Robb&#8217;s patent-pending camera toss move.
+  <img class="aligncenter" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2010PostsImages/07-JULY/070310_JaredKelly-14.jpg" alt="JaredandKellyHall14" />Yup, that's Robb's patent-pending camera toss move.
 </p>
 
 <p style="text-align: center;">
@@ -92,6 +92,6 @@ My little brother is getting married tomorrow! Crazy style.
 Mantreat 2010 was last weekend, expect a set or two from that soon.
 
 Peace  
-&#8211; KS
+– KS
 
-Today&#8217;s title was brought to you by the song &#8220;Runaway Car&#8221; by Mat Kearney from his album City of Black and White. Lovin&#8217; this album.
+Today's title was brought to you by the song "Runaway Car" by Mat Kearney from his album City of Black and White. Lovin' this album.

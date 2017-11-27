@@ -2,7 +2,7 @@
 title: Welcome to the world, Jackie Boy
 subtitle: Since We Found Out, That Anything Could Happen
 date: 2013-04-25
-layout: post
+
 
 
 categories:
@@ -26,13 +26,13 @@ Game Face. After taking a small fall off the bed at home, we went to the hospita
 
 <img class="size-full wp-image-1524" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/wp-content/uploads/2013/04/IMG_4897.jpg" alt="" />
 
-As you might guess, this wasn&#8217;t exactly our plan, we wanted to go into labor naturally and try to have the best possible chances at a natural birth, despite the previous c-section with Annabella.
+As you might guess, this wasn't exactly our plan, we wanted to go into labor naturally and try to have the best possible chances at a natural birth, despite the previous c-section with Annabella.
 
 <img class="size-full wp-image-1525" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/wp-content/uploads/2013/04/IMG_4938.jpg" alt="" />
 
 But after two rounds of pitocin and a foley bulb, there was virutally zero progression. A solid three days in the hospital and they actually let us go home and see what happens.
 
-After five days at home, we came back for a second follow-up visit to check everything out. We were one foot out the door and going to be making our way home when they decided to admit Alison and induce again. As you can see, Alison isn&#8217;t very happy about that.
+After five days at home, we came back for a second follow-up visit to check everything out. We were one foot out the door and going to be making our way home when they decided to admit Alison and induce again. As you can see, Alison isn't very happy about that.
 
 <img class="size-full wp-image-1526" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/wp-content/uploads/2013/04/IMG_4962.jpg" alt="" />
 
@@ -76,9 +76,9 @@ Yay! There he is!
 
 <img class="size-full wp-image-1544" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/wp-content/uploads/2013/04/IMG_5160.jpg" alt="" />
 
-Thanks for watching! We&#8217;re SUPER excited to welcome baby Jack to our family. We are going to be able leave the hospital very soon and get home!
+Thanks for watching! We're SUPER excited to welcome baby Jack to our family. We are going to be able leave the hospital very soon and get home!
 
 Peace,  
-&#8211; KS
+– KS
 
-Today&#8217;s title is courtesy of the song &#8220;Anything Could Happen&#8221; by Ellie Goulding from her album Halcyon. Awesome album.
+Today's title is courtesy of the song "Anything Could Happen" by Ellie Goulding from her album Halcyon. Awesome album.

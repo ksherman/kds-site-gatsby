@@ -1,7 +1,7 @@
 ---
 title: I Will Carry You There
 author: ksherman
-layout: post
+
 permalink: /2011/i-will-carry-you-there/
 aktt_notify_twitter:
   - yes
@@ -152,6 +152,6 @@ Ha. Robb rocks a suit now.
 Thanks for watching! Was editing while watching Avatar for the first time in 2D (saw it twice in 3D). Great visuals, though if you watch the 2D version up close, it looks a little goofy. Couple more posts coming soon! Look out for pictures from Ignite Fest and another wedding.
 
 Peace!  
-&#8211; KS
+– KS
 
-Today&#8217;s title was taken from some of Hanson&#8217;s newer work (Stand Up Stand Up EP). Yes that Hanson. Yes, you should be listening to them RIGHT NOW.
+Today's title was taken from some of Hanson's newer work (Stand Up Stand Up EP). Yes that Hanson. Yes, you should be listening to them RIGHT NOW.

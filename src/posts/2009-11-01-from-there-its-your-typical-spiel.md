@@ -1,7 +1,7 @@
 ---
-title: 'From there it&#8217;s your typical spiel'
+title: From there it's your typical spiel
 author: ksherman
-layout: post
+
 permalink: /2009/from-there-its-your-typical-spiel/
 aktt_notify_twitter:
   - yes
@@ -14,6 +14,7 @@ categories:
   - News
   - Photojournalism
 ---
+
 Hello!
 
 <p style="text-align: left;">
@@ -21,43 +22,43 @@ Hello!
 </p>
 
 <p style="text-align: center;">
-  <img src="http://storage.kshermphoto.com/FM/sescnsba_001.jpg" alt="FB1" /><br /> South Elgin&#8217;s Bradley Birchfield (7) receives a pass during the first quarter of their first-round playoff game against St. Charles North in Streamwood on Saturday afternoon. Kevin Sherman/ksherman@dailyherald.com/© Daily Herald
+  <img src="http://storage.kshermphoto.com/FM/sescnsba_001.jpg" alt="FB1" /><br /> South Elgin's Bradley Birchfield (7) receives a pass during the first quarter of their first-round playoff game against St. Charles North in Streamwood on Saturday afternoon. Kevin Sherman/ksherman@dailyherald.com/© Daily Herald
 </p>
 
 <p style="text-align: center;">
-  <img src="http://storage.kshermphoto.com/FM/sescnsba_002.jpg" alt="FB2" /><br /> PLAYOFFS &#8211; ROUND 1: St Charles North at South Elgin Saturday in Streamwood. Kevin Sherman/ksherman@dailyherald.com/© Daily Herald
+  <img src="http://storage.kshermphoto.com/FM/sescnsba_002.jpg" alt="FB2" /><br /> PLAYOFFS – ROUND 1: St Charles North at South Elgin Saturday in Streamwood. Kevin Sherman/ksherman@dailyherald.com/© Daily Herald
 </p>
 
 <p style="text-align: center;">
-  <img src="http://storage.kshermphoto.com/FM/sescnsba_003.jpg" alt="FB3" /><br /> South Elgin&#8217;s Bradley Birchfield (7) is taken down by St. Charles North&#8217;s Conner Mohs (22) during their first-round playoff game in Streamwood on Saturday afternoon. Kevin Sherman/ksherman@dailyherald.com/© Daily Herald
+  <img src="http://storage.kshermphoto.com/FM/sescnsba_003.jpg" alt="FB3" /><br /> South Elgin's Bradley Birchfield (7) is taken down by St. Charles North's Conner Mohs (22) during their first-round playoff game in Streamwood on Saturday afternoon. Kevin Sherman/ksherman@dailyherald.com/© Daily Herald
 </p>
 
 <p style="text-align: center;">
-  <img src="http://storage.kshermphoto.com/FM/sescnsba_004.jpg" alt="FB4" /><br /> PLAYOFFS &#8211; ROUND 1: St Charles North at South Elgin Saturday in Streamwood. Kevin Sherman/ksherman@dailyherald.com/© Daily Herald
+  <img src="http://storage.kshermphoto.com/FM/sescnsba_004.jpg" alt="FB4" /><br /> PLAYOFFS – ROUND 1: St Charles North at South Elgin Saturday in Streamwood. Kevin Sherman/ksherman@dailyherald.com/© Daily Herald
 </p>
 
 <p style="text-align: center;">
-  <img src="http://storage.kshermphoto.com/FM/sescnsba_005.jpg" alt="FB5" /><br /> PLAYOFFS &#8211; ROUND 1: St Charles North at South Elgin Saturday in Streamwood. Kevin Sherman/ksherman@dailyherald.com/© Daily Herald
+  <img src="http://storage.kshermphoto.com/FM/sescnsba_005.jpg" alt="FB5" /><br /> PLAYOFFS – ROUND 1: St Charles North at South Elgin Saturday in Streamwood. Kevin Sherman/ksherman@dailyherald.com/© Daily Herald
 </p>
 
 <p style="text-align: center;">
-  <img src="http://storage.kshermphoto.com/FM/sescnsba_006.jpg" alt="FB6" /><br /> PLAYOFFS &#8211; ROUND 1: St Charles North at South Elgin Saturday in Streamwood. Kevin Sherman/ksherman@dailyherald.com/© Daily Herald
+  <img src="http://storage.kshermphoto.com/FM/sescnsba_006.jpg" alt="FB6" /><br /> PLAYOFFS – ROUND 1: St Charles North at South Elgin Saturday in Streamwood. Kevin Sherman/ksherman@dailyherald.com/© Daily Herald
 </p>
 
 <p style="text-align: center;">
-  <img src="http://storage.kshermphoto.com/FM/sescnsba_007.jpg" alt="FB7" /><br /> PLAYOFFS &#8211; ROUND 1: St Charles North at South Elgin Saturday in Streamwood. Kevin Sherman/ksherman@dailyherald.com/© Daily Herald
+  <img src="http://storage.kshermphoto.com/FM/sescnsba_007.jpg" alt="FB7" /><br /> PLAYOFFS – ROUND 1: St Charles North at South Elgin Saturday in Streamwood. Kevin Sherman/ksherman@dailyherald.com/© Daily Herald
 </p>
 
 <p style="text-align: center;">
-  <img src="http://storage.kshermphoto.com/FM/sescnsba_008.jpg" alt="FB8" /><br /> St. Charles North&#8217;s Josh Mikes (16) espaces a tackle by South Elgin&#8217;s Domico Failla (5) during their first-round playoff game in Streamwood on Saturday afternoon. Kevin Sherman/ksherman@dailyherald.com/© Daily Herald
+  <img src="http://storage.kshermphoto.com/FM/sescnsba_008.jpg" alt="FB8" /><br /> St. Charles North's Josh Mikes (16) espaces a tackle by South Elgin's Domico Failla (5) during their first-round playoff game in Streamwood on Saturday afternoon. Kevin Sherman/ksherman@dailyherald.com/© Daily Herald
 </p>
 
 <p style="text-align: center;">
-  <img src="http://storage.kshermphoto.com/FM/sescnsba_009.jpg" alt="FB9" /><br /> St. Charles North&#8217;s Jake Bergren (6) makes a throw during their first-round playoff game against South Elgin in Streamwood on Saturday afternoon. Kevin Sherman/ksherman@dailyherald.com/© Daily Herald
+  <img src="http://storage.kshermphoto.com/FM/sescnsba_009.jpg" alt="FB9" /><br /> St. Charles North's Jake Bergren (6) makes a throw during their first-round playoff game against South Elgin in Streamwood on Saturday afternoon. Kevin Sherman/ksherman@dailyherald.com/© Daily Herald
 </p>
 
 <p style="text-align: center;">
-  <img src="http://storage.kshermphoto.com/FM/sescnsba_010.jpg" alt="FB10" /><br /> PLAYOFFS &#8211; ROUND 1: St Charles North at South Elgin Saturday in Streamwood. Kevin Sherman/ksherman@dailyherald.com/© Daily Herald
+  <img src="http://storage.kshermphoto.com/FM/sescnsba_010.jpg" alt="FB10" /><br /> PLAYOFFS – ROUND 1: St Charles North at South Elgin Saturday in Streamwood. Kevin Sherman/ksherman@dailyherald.com/© Daily Herald
 </p>
 
 <p style="text-align: center;">
@@ -74,7 +75,7 @@ Hello!
 
 Thanks for looking! As always, C&C are welcome.
 
-Peace  
-&#8211; KS
+Peace\
+– KS
 
-This week&#8217;s title was taken from the song &#8220;Deathbed&#8221; by Relient K from their album Five Score And Seven Years Ago. This is a mind-blowing and epic song.
+This week's title was taken from the song "Deathbed" by Relient K from their album Five Score And Seven Years Ago. This is a mind-blowing and epic song.

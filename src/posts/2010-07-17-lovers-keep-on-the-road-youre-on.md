@@ -1,7 +1,7 @@
 ---
-title: 'Lovers, Keep On the Road You&#8217;re On'
+title: Lovers, Keep On the Road You're On
 author: ksherman
-layout: post
+
 permalink: /2010/lovers-keep-on-the-road-youre-on/
 aktt_notify_twitter:
   - yes
@@ -15,9 +15,10 @@ categories:
   - illuminations
   - Weddings
 ---
+
 # Little bro got hitched
 
-Yup, crazy! I don&#8217;t have any pictures during the ceremony since I was standing. There were a few other photogs taking care of that part!
+Yup, crazy! I don't have any pictures during the ceremony since I was standing. There were a few other photogs taking care of that part!
 
 <p style="text-align: center;">
   <img src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2010PostsImages/07-JULY/071610_EricBlythe-01.jpg" alt="EricandBlythe1" />
@@ -84,7 +85,7 @@ Yup, crazy! I don&#8217;t have any pictures during the ceremony since I was stan
 </p>
 
 <p style="text-align: center;">
-  If you guy ever get engaged, married or just want pictures taken, I&#8217;m in. You guys are just too hilarious not to have your personalities captured on silicon.
+  If you guy ever get engaged, married or just want pictures taken, I'm in. You guys are just too hilarious not to have your personalities captured on silicon.
 </p>
 
 <p style="text-align: center;">
@@ -95,9 +96,9 @@ Yup, crazy! I don&#8217;t have any pictures during the ceremony since I was stan
   <img src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2010PostsImages/07-JULY/071610_EricBlythe-16.jpg" alt="EricandBlythe16" />
 </p>
 
-Grand &#8216;ol time! Lookin&#8217; forward to see what the others got.
+Grand &#8216;ol time! Lookin' forward to see what the others got.
 
-Peace  
-&#8211; KS
+Peace\
+– KS
 
-Today&#8217;s title is taken from the song &#8220;Lovers in Japan&#8221; by Coldplay from their album Viva La Vida. Favorite TapTap Revenge song <img src="http://kshermphoto.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Today's title is taken from the song "Lovers in Japan" by Coldplay from their album Viva La Vida. Favorite TapTap Revenge song <img src="http://kshermphoto.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />

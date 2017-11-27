@@ -1,7 +1,7 @@
 ---
 title: A Million Miles Past the Finish Line
 author: ksherman
-layout: post
+
 permalink: /2011/a-million-miles-past-the-finish-line/
 aktt_notify_twitter:
   - yes
@@ -44,9 +44,9 @@ tags:
   </p>
   
   <p>
-    Peace<br /> &#8211; KS
+    Peace<br /> – KS
   </p>
   
   <p>
-    Today&#8217;s title is from &#8220;Accidental Light&#8221; from Sleeping At Last&#8217;s December EP.
+    Today's title is from "Accidental Light" from Sleeping At Last's December EP.
   </p>

@@ -1,7 +1,7 @@
 ---
-title: 'And what we also find is this&#8230;'
+title: And what we also find is this...
 author: ksherman
-layout: post
+
 permalink: /2009/and-what-we-also-find-is-this/
 aktt_notify_twitter:
   - yes
@@ -12,7 +12,8 @@ aktt_tweeted:
 categories:
   - illuminations
 ---
-Hello again! As promised, some more football! This is Larkin High School (that&#8217;s my old high school :-)) against South Elgin High. I really like shooting football, and pretty much any sports!
+
+Hello again! As promised, some more football! This is Larkin High School (that's my old high school :-)) against South Elgin High. I really like shooting football, and pretty much any sports!
 
 ![FB1][1]
 
@@ -34,18 +35,18 @@ Hello again! As promised, some more football! This is Larkin High School (that&#
 
 ![FB10][10]
 
-Next up: wedding! Going through them now&#8230; Might be a few days or so.
+Next up: wedding! Going through them now... Might be a few days or so.
 
-Peace  
-&#8211; KS
+Peace\
+– KS
 
- [1]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/October/29-2/larksefba_01.JPG
- [2]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/October/29-2/larksefba_02.JPG
- [3]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/October/29-2/larksefba_03.JPG
- [4]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/October/29-2/larksefba_04.JPG
- [5]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/October/29-2/larksefba_05.JPG
- [6]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/October/29-2/larksefba_06.JPG
- [7]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/October/29-2/larksefba_07.JPG
- [8]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/October/29-2/larksefba_08.JPG
- [9]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/October/29-2/larksefba_09.JPG
- [10]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/October/29-2/larksefba_11.JPG
+[1]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/October/29-2/larksefba_01.JPG
+[2]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/October/29-2/larksefba_02.JPG
+[3]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/October/29-2/larksefba_03.JPG
+[4]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/October/29-2/larksefba_04.JPG
+[5]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/October/29-2/larksefba_05.JPG
+[6]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/October/29-2/larksefba_06.JPG
+[7]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/October/29-2/larksefba_07.JPG
+[8]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/October/29-2/larksefba_08.JPG
+[9]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/October/29-2/larksefba_09.JPG
+[10]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/October/29-2/larksefba_11.JPG

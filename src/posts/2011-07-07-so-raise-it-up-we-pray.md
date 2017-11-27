@@ -1,7 +1,7 @@
 ---
 title: So Raise it Up, We pray
 author: ksherman
-layout: post
+
 permalink: /2011/so-raise-it-up-we-pray/
 aktt_notify_twitter:
   - yes
@@ -20,7 +20,7 @@ tags:
   - The Patriot Flag
 ---
 <p style="text-align: center;">
-  <img src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2011PostsImages/July/PatriotFlag_blog-1.jpg" alt="PatriotFlag_blog-1" /><br /> <em>A portion of the 30 foot by 57 foot Patriot Flag that tore off on it&#8217;s journey around the country is signed by tens of thousands of people, here being signed by locals before the flag was raised at the Bartlett Community Center on Thursday, July 7, 2011. (Kevin D. Sherman~For Sun-Times Media)</em>
+  <img src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2011PostsImages/July/PatriotFlag_blog-1.jpg" alt="PatriotFlag_blog-1" /><br /> <em>A portion of the 30 foot by 57 foot Patriot Flag that tore off on it's journey around the country is signed by tens of thousands of people, here being signed by locals before the flag was raised at the Bartlett Community Center on Thursday, July 7, 2011. (Kevin D. Sherman~For Sun-Times Media)</em>
 </p>
 
 <p style="text-align: center;">
@@ -44,7 +44,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <img src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2011PostsImages/July/PatriotFlag_blog-7.jpg" alt="PatriotFlag_blog-7" /><br /> <em>The 30 foot by 57 foot Patriot Flag against the moon at Bartlett&#8217;s Community Center on Thursday, July 7, 2011. (Kevin D. Sherman~For Sun-Times Media)</em>
+  <img src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2011PostsImages/July/PatriotFlag_blog-7.jpg" alt="PatriotFlag_blog-7" /><br /> <em>The 30 foot by 57 foot Patriot Flag against the moon at Bartlett's Community Center on Thursday, July 7, 2011. (Kevin D. Sherman~For Sun-Times Media)</em>
 </p>
 
 <p style="text-align: center;">
@@ -58,6 +58,6 @@ tags:
 Really awesome assignment, this flag was really something to see.
 
 Peace  
-&#8211; KS
+– KS
 
-Today&#8217;s title is from the Jamia Simone Nash song &#8220;Raise it Up&#8221;
+Today's title is from the Jamia Simone Nash song "Raise it Up"

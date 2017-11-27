@@ -1,7 +1,7 @@
 ---
 title: You Really Want, to Grow and Grow
 author: ksherman
-layout: post
+
 permalink: /2010/you-really-want-to-grow-and-grow/
 aktt_notify_twitter:
   - yes
@@ -43,9 +43,9 @@ From another Courier assignment at the opening of the Fitchie Creek Forest Prese
   <img src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2010PostsImages/05-MAY/1DM32878.jpg" alt="ELFOREST-1" />
 </p>
 
-That last one is Daily Herald photographer Brian Hill, walking off through the brush into the mist. Not sure if anyone told him there was a path&#8230;
+That last one is Daily Herald photographer Brian Hill, walking off through the brush into the mist. Not sure if anyone told him there was a path...
 
 Peace  
-&#8211; KS
+– KS
 
-Today&#8217;s title was brought to you from the song &#8220;Grow Till Tall&#8221; by Jonsi from his album Go Do. Jonsi is the lead singer from Sigur Ros and even makes English sound like Icelandic.
+Today's title was brought to you from the song "Grow Till Tall" by Jonsi from his album Go Do. Jonsi is the lead singer from Sigur Ros and even makes English sound like Icelandic.

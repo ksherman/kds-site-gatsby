@@ -1,7 +1,7 @@
 ---
 title: Are the Details in the Fabric?
 author: ksherman
-layout: post
+
 permalink: /2010/are-the-details-in-the-fabric/
 aktt_tweeted:
   - 1
@@ -13,7 +13,7 @@ categories:
   - illuminations
   - Weddings
 ---
-Sorry I haven&#8217;t posted in a while. Ebbs and Flows eh?
+Sorry I haven't posted in a while. Ebbs and Flows eh?
 
 Been shooting a lot, just had to push myself to get more stuff online!
 
@@ -96,6 +96,6 @@ One of my best friends, Zach Olson, got himself hitched to the lovely Steph John
 Some more posts on the way, hopefully! Planning on a productive Saturday <img src="http://kshermphoto.com/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" />
 
 Peace  
-&#8211; KS
+– KS
 
-Today&#8217;s title comes from the &#8220;Details in the Fabric&#8221; by Jason Mraz.
+Today's title comes from the "Details in the Fabric" by Jason Mraz.

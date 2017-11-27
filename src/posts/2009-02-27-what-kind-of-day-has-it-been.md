@@ -1,7 +1,7 @@
 ---
 title: What kind of day has it been?
 author: ksherman
-layout: post
+
 permalink: /2009/what-kind-of-day-has-it-been/
 aktt_tweeted:
   - 1
@@ -33,4 +33,4 @@ I got a chance to sit down with Scott from the Tribune and had him go through my
 I guess that about wraps up most of today’s insanity. Here’s to hoping that tomorrow goes much smoother. I’m excited to meet more people tomorrow and getting rid of all the portfolio CDs I made and give a way a lot of business cards! Have a good night and thanks for reading my 1000 word essay.
 
 Peace  
-&#8211; KS
+– KS

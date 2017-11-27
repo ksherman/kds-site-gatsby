@@ -1,7 +1,7 @@
 ---
-title: 'A Lovers&#8217; Waltz Will Turn Until the End'
+title: A Lovers' Waltz Will Turn Until the End
 author: ksherman
-layout: post
+
 permalink: /2011/a-lovers-waltz-will-turn-until-the-end/
 aktt_tweeted:
   - 1
@@ -13,11 +13,12 @@ categories:
   - illuminations
   - Weddings
 ---
-*Fair warning, 67 photos! Had a hard time picking fewer <img src="http://kshermphoto.com/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />*
 
-This past Sunday I had the honor of being the photographer at my friends Kat and Chris Ammann. I (literally) work very closely with Kat at Judson, it&#8217;s been a blast to hear her planning the wedding, getting to know her and seeing her love for Chris. I&#8217;m super excited for you guys as you start your life together. Rock on!
+_Fair warning, 67 photos! Had a hard time picking fewer <img src="http://kshermphoto.com/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />_
 
-Also, a lot of the detail pieces in this wedding were handmade by Kat herself, such as the bouquet, boutineers, veil, the book the rings were in, confetti, table center pieces, &#8220;thank you&#8221; tags on the take home favors and probably a few others I am forgetting. Check out her work: <a href="http://thecheshirekat.blogspot.com/" target="_blank">http://thecheshirekat.blogspot.com/</a>
+This past Sunday I had the honor of being the photographer at my friends Kat and Chris Ammann. I (literally) work very closely with Kat at Judson, it's been a blast to hear her planning the wedding, getting to know her and seeing her love for Chris. I'm super excited for you guys as you start your life together. Rock on!
+
+Also, a lot of the detail pieces in this wedding were handmade by Kat herself, such as the bouquet, boutineers, veil, the book the rings were in, confetti, table center pieces, "thank you" tags on the take home favors and probably a few others I am forgetting. Check out her work: <a href="http://thecheshirekat.blogspot.com/" target="_blank">http://thecheshirekat.blogspot.com/</a>
 
 <img class="aligncenter" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2011PostsImages/September/AmmannWedding-1.jpg" alt="" />  
 <img class="aligncenter" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2011PostsImages/September/AmmannWedding-2.jpg" alt="" />  
@@ -87,7 +88,7 @@ Also, a lot of the detail pieces in this wedding were handmade by Kat herself, s
 <img class="aligncenter" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2011PostsImages/September/AmmannWedding-66.jpg" alt="" />  
 <img class="aligncenter" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2011PostsImages/September/AmmannWedding-67.jpg" alt="" />
 
-Peace!  
-&#8211; KS
+Peace!\
+– KS
 
-Today&#8217;s title was taken from the song &#8220;Lover&#8217;s Waltz&#8221; by A. A. Bondy.
+Today's title was taken from the song "Lover's Waltz" by A. A. Bondy.

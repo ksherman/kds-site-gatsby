@@ -1,7 +1,7 @@
 ---
-title: 'Photo Walk &#8211; March 28th'
+title: Photo Walk – March 28th
 author: ksherman
-layout: post
+
 permalink: /2009/photo-walk-march-28th/
 aktt_tweeted:
   - 1
@@ -12,7 +12,7 @@ aktt_notify_twitter:
 categories:
   - illuminations
 ---
-Walked around on a blustry day with an old friend. Was awesome reconnecting and shooting for fun, which I haven&#8217;t done in a while. Here is the fruits of my labor.
+Walked around on a blustry day with an old friend. Was awesome reconnecting and shooting for fun, which I haven't done in a while. Here is the fruits of my labor.
 
 ![][1]
 
@@ -34,7 +34,7 @@ Walked around on a blustry day with an old friend. Was awesome reconnecting and 
 
 Thanks for looking,  
 Peace  
-&#8211; KS
+– KS
 
  [1]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/March/28/March28-01.jpg
  [2]: https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2009PostsImages/March/28/March28-02.jpg

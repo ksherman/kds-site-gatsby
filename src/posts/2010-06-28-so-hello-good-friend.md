@@ -1,7 +1,7 @@
 ---
-title: 'So Hello, Good Friend&#8230;'
+title: So Hello, Good Friend...
 author: ksherman
-layout: post
+
 permalink: /2010/so-hello-good-friend/
 aktt_notify_twitter:
   - yes
@@ -15,6 +15,7 @@ categories:
   - California
   - illuminations
 ---
+
 Few left overs from Cali.
 
 <p style="text-align: center;">
@@ -22,7 +23,7 @@ Few left overs from Cali.
 </p>
 
 <p style="text-align: center;">
-  Little sisters and my grandpa takin&#8217; a gander at a sea otter. Cute little baggerts!
+  Little sisters and my grandpa takin' a gander at a sea otter. Cute little baggerts!
 </p>
 
 <p style="text-align: center;">
@@ -38,7 +39,7 @@ Few left overs from Cali.
 </p>
 
 <p style="text-align: center;">
-  Eric&#8217;s kinda short.
+  Eric's kinda short.
 </p>
 
 <p style="text-align: center;">
@@ -65,13 +66,13 @@ Few left overs from Cali.
   Whoop!
 </p>
 
-Okay&#8230; Well I&#8217;ve been back from California for a long while now. Despite the early set backs and last-minute surgery plan changes, everything went off without a hitch! The surgery only lasted a few hours and they were able to determine definitively that the tumor was not cancerous and was a benign tumor (still growing, but benign!). Crazy birthday.
+Okay... Well I've been back from California for a long while now. Despite the early set backs and last-minute surgery plan changes, everything went off without a hitch! The surgery only lasted a few hours and they were able to determine definitively that the tumor was not cancerous and was a benign tumor (still growing, but benign!). Crazy birthday.
 
 The post-op was only a few days in the hospital and she was feeling pretty good afterwards, well considering. That anesthesia takes a while to fully leave your system I guess.
 
-Lil&#8217; brother Eric came in on Thursday the 3rd. Drove around LA. Hated the driving, wished to be back home.Travels home were okay, except I got stuck in the cliche seating arrangement on the airplane&#8230; Ugh.
+Lil' brother Eric came in on Thursday the 3rd. Drove around LA. Hated the driving, wished to be back home.Travels home were okay, except I got stuck in the cliche seating arrangement on the airplane... Ugh.
 
 Another, newer, image to come shortly with more ruminations. Stay tuned, as they say in the biz.
 
-Peace  
-&#8211; KS
+Peace\
+– KS

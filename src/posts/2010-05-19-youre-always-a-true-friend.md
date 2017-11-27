@@ -1,7 +1,7 @@
 ---
-title: 'You&#8217;re Always a True Friend'
+title: You're Always a True Friend
 author: ksherman
-layout: post
+
 permalink: /2010/youre-always-a-true-friend/
 aktt_notify_twitter:
   - yes
@@ -13,9 +13,10 @@ categories:
   - illuminations
   - Weddings
 ---
-Sorry, I know, I haven&#8217;t posted in a while. It&#8217;s been a crazy month, much like the past 8-12 have been. Expect another post or two of newsie pictures. But first, wedding fun!
 
-Here is the wedding of Noah and Mackenzie Katsma. Noah&#8217;s been a friend for a while and a fellow camera nerd. Best wishes to both of you, I know you&#8217;ll go far!
+Sorry, I know, I haven't posted in a while. It's been a crazy month, much like the past 8-12 have been. Expect another post or two of newsie pictures. But first, wedding fun!
+
+Here is the wedding of Noah and Mackenzie Katsma. Noah's been a friend for a while and a fellow camera nerd. Best wishes to both of you, I know you'll go far!
 
 <p style="text-align: center;">
   <img class="aligncenter" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2010PostsImages/05-MAY/NoahMackenzie-TITLE.jpg" alt="TITLE" />
@@ -110,11 +111,11 @@ Here is the wedding of Noah and Mackenzie Katsma. Noah&#8217;s been a friend for
 </p>
 
 <p style="text-align: left;">
-  Pretty big set, from a pretty big day! First major outing with my newly acquired 5D Mark II. Yup, I&#8217;m ditching the 7D once my 1D Mark III gets back from the chop-shop. This 5D is soooo good, absolutely love it. Takes wonderful pictures, there&#8217;s nothing like a full-frame sensor. Sorry APS-C.
+  Pretty big set, from a pretty big day! First major outing with my newly acquired 5D Mark II. Yup, I'm ditching the 7D once my 1D Mark III gets back from the chop-shop. This 5D is soooo good, absolutely love it. Takes wonderful pictures, there's nothing like a full-frame sensor. Sorry APS-C.
 </p>
 
 <p style="text-align: left;">
-  In other news, potential big job movement. Got offered full-time at Judson, but I fear the money isn&#8217;t enough so I will still need to maintain two jobs. Not exactly what I was hoping for.
+  In other news, potential big job movement. Got offered full-time at Judson, but I fear the money isn't enough so I will still need to maintain two jobs. Not exactly what I was hoping for.
 </p>
 
 <p style="text-align: left;">
@@ -122,17 +123,17 @@ Here is the wedding of Noah and Mackenzie Katsma. Noah&#8217;s been a friend for
 </p>
 
 <p style="text-align: left;">
-  Trying to finish off my first graduate class. Seems unlikely that I will take a summer class this summer. I don&#8217;t think I can handle a compressed two-nights-a-week class in the midst of all this. Also not what I was hoping for.
+  Trying to finish off my first graduate class. Seems unlikely that I will take a summer class this summer. I don't think I can handle a compressed two-nights-a-week class in the midst of all this. Also not what I was hoping for.
 </p>
 
 <p style="text-align: left;">
-  Peace<br /> &#8211; KS
+  Peace<br /> – KS
 </p>
 
 <p style="text-align: left;">
-  Today&#8217;s title is from the song &#8220;There For You&#8221; from Flyleaf&#8217;s self-titled album.
+  Today's title is from the song "There For You" from Flyleaf's self-titled album.
 </p>
 
 > <p style="text-align: left;">
->   &#8220;Sometimes I&#8217;m a selfish fake; you&#8217;re always a true friend.&#8221;
-> </p>
+  "Sometimes I'm a selfish fake; you're always a true friend."
+</p>

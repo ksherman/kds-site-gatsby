@@ -1,7 +1,7 @@
 ---
-title: 'What we find is this&#8230;'
+title: What we find is this...
 author: ksherman
-layout: post
+
 permalink: /2009/what-we-find-is-this/
 aktt_notify_twitter:
   - yes
@@ -13,10 +13,11 @@ categories:
   - Engagements
   - illuminations
 ---
+
 Engagement Photos!
 
 <p style="text-align: left;">
-  I had the pleasure of shooting John Ritchey and Mandy Rivera a few weeks back. I have been crazy-busy so I had to get through them in my &#8216;spare&#8217; time while both jobs are asking me to put in more hours&#8230; hahahahaha.
+  I had the pleasure of shooting John Ritchey and Mandy Rivera a few weeks back. I have been crazy-busy so I had to get through them in my &#8216;spare' time while both jobs are asking me to put in more hours... hahahahaha.
 </p>
 
 <p style="text-align: left;">
@@ -62,7 +63,7 @@ Engagement Photos!
   
   <p style="text-align: center;">
     <p>
-      Now to get through the wedding stuff! Going to bust a move straight through them, cull the junk and out a few up. Football Friday night and probably Saturday. Play-off season! Shoot, I have another football game to post here&#8230; I can do those now!
+      Now to get through the wedding stuff! Going to bust a move straight through them, cull the junk and out a few up. Football Friday night and probably Saturday. Play-off season! Shoot, I have another football game to post here... I can do those now!
     </p>
     
     <p>
@@ -70,5 +71,5 @@ Engagement Photos!
     </p>
     
     <p>
-      Peace<br /> &#8211; KS
+      Peace<br /> – KS
     </p>
