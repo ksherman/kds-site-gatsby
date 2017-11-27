@@ -7,6 +7,7 @@ export default ({ children, data }) => (
   <div className="site-wrapper">
     <SidebarPostNavigation
       metadata={data.site.siteMetadata}
+      postCount={data.allMarkdownRemark.totalCount}
       posts={data.allMarkdownRemark.edges}
     />
     {children()}

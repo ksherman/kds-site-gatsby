@@ -30,29 +30,9 @@ export default props => {
         </div>
       </div>
       <div className="sidebar-post-navigation">
+        <h3>Posts: {props.postCount}</h3>
         <div className="post-list">{postLinks}</div>
       </div>
     </nav>
   );
 };
-
-export const query = graphql`
-  query PostsNavigationQuery {
-    allMarkdownRemark(sort: { fields: [frontmatter___title], order: ASC }) {
-      totalCount
-      edges {
-        node {
-          id
-          excerpt
-          frontmatter {
-            title
-            author
-          }
-          fields {
-            slug
-          }
-        }
-      }
-    }
-  }
-`;
