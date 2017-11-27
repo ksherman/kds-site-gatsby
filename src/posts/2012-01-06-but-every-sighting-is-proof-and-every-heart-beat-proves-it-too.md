@@ -1,5 +1,5 @@
 ---
-title: But Every Sighting is Proof, and Every Heart-Beat Proves It Too:
+title: But Every Sighting is Proof, and Every Heart-Beat Proves It Too
 author: ksherman
 
 permalink: /2012/but-every-sighting-is-proof-and-every-heart-beat-proves-it-too/

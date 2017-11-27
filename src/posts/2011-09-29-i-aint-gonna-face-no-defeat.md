@@ -1,5 +1,5 @@
 ---
-title: [Updated] I Ain't Gonna Face No Defeat
+title: I Ain't Gonna Face No Defeat
 author: ksherman
 
 permalink: /2011/i-aint-gonna-face-no-defeat/

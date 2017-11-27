@@ -18,6 +18,8 @@ tags:
   - Sports
   - Sports Action
 ---
+
+<p>Some recent sports action work!</p>
 <center>
   <figure id="attachment_746" style="width: 900px;" class="wp-caption aligncenter"><a href="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/wp-content/uploads/2011/05/strwSOFlark-ECN-0524-2.jpg"><img class="size-full wp-image-746" title="strwSOFlark-ECN-0524" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/wp-content/uploads/2011/05/strwSOFlark-ECN-0524-2.jpg" alt="Streamwood's Brittany DeLao (14) lays down a bunt during their 4-1 regional game win over Larkin on Monday, May 23, 2011. (Kevin Sherman~For Sun-Times Media)" width="900" height="680" /></a><figcaption class="wp-caption-text">Streamwood's Brittany DeLao (14) lays down a bunt during their 4-1 regional game win over Larkin on Monday, May 23, 2011. (Kevin Sherman~For Sun-Times Media)</figcaption></figure></p> <figure id="attachment_745" style="width: 600px;" class="wp-caption aligncenter"><a href="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/wp-content/uploads/2011/05/strwSOFlark-ECN-0524-4.jpg"><img class="size-full wp-image-745" title="strwSOFlark-ECN-0524" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/wp-content/uploads/2011/05/strwSOFlark-ECN-0524-4.jpg" alt="Larkin's Kiernan Schock (20) pitches against Streamwood during their regional game at Larking on Monday, May 23, 2011. (Kevin Sherman~For Sun-Times Media)" width="600" height="900" /></a><figcaption class="wp-caption-text">Larkin's Kiernan Schock (20) pitches against Streamwood during their regional game at Larking on Monday, May 23, 2011. (Kevin Sherman~For Sun-Times Media)</figcaption></figure> <figure id="attachment_744" style="width: 900px;" class="wp-caption aligncenter"><a href="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/wp-content/uploads/2011/05/strwSOFlark-ECN-0524.jpg"><img class="size-full wp-image-744" title="strwSOFlark-ECN-0524" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/wp-content/uploads/2011/05/strwSOFlark-ECN-0524.jpg" alt="Streamwood's Dani Fisher (19) celebrates with her team after their 4-1 regional game win over Larkin on Monday, May 23, 2011. (Kevin Sherman~For Sun-Times Media)" width="900" height="657" /></a><figcaption class="wp-caption-text">Streamwood's Dani Fisher (19) celebrates with her team after their 4-1 regional game win over Larkin on Monday, May 23, 2011. (Kevin Sherman~For Sun-Times Media)</figcaption></figure> 
   
@@ -34,10 +36,6 @@ tags:
   </p>
   
   <hr />
-  
-  <p>
-    Some recent sports action work!
-  </p>
   
   <p>
     Fun times ahead <img src="http://kshermphoto.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
