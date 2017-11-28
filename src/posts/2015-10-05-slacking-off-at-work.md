@@ -1,7 +1,7 @@
 ---
 title: Slacking Off At Work
 subtitle: Notes from HEWeb2015
-date: 2015-10-05 15:15
+date: "2015-10-05"
 author: Kevin D. Sherman
 tags: [heweb15]
 ---

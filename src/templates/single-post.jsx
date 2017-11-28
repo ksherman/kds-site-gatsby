@@ -2,10 +2,14 @@ import React from 'react';
 
 export default ({ data }) => {
   const post = data.markdownRemark;
+  console.log(post);
   return (
     <div className="single-post-wrapper">
       <h2>{post.frontmatter.title}</h2>
       <div className="single-post-author">By: {post.frontmatter.author}</div>
+      <div className="single-post-author">
+        Posted On: {post.frontmatter.date}
+      </div>
       <div
         className="single-post-body"
         dangerouslySetInnerHTML={{ __html: post.html }}
@@ -21,6 +25,7 @@ export const query = graphql`
       frontmatter {
         title
         author
+        date(formatString: "MMMM DD, YYYY")
       }
     }
   }

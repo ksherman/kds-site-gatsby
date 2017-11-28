@@ -1,7 +1,7 @@
 ---
 title: Building a Modern Course Catalog Search
 subtitle: Notes from HEWeb2015
-date: 2015-10-06 14:00
+date: "2015-10-06"
 author: Kevin D. Sherman
 tags: [heweb15]
 ---

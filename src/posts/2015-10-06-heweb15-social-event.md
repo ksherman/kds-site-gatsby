@@ -1,7 +1,7 @@
 ---
 title: -Photos- HEWEB15 Big Social Event!
 subtitle: Notes from HEWeb2015
-date: 2015-10-06 22:30
+date: "2015-10-06"
 author: Kevin D. Sherman
 tags: [heweb15, illuminations]
 ---

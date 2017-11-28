@@ -21,7 +21,7 @@ export const query = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___title], order: ASC }) {
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
       totalCount
       edges {
         node {
@@ -30,6 +30,7 @@ export const query = graphql`
           frontmatter {
             title
             author
+            date(formatString: "MMMM DD, YYYY")
           }
           fields {
             slug

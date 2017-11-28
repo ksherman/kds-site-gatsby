@@ -1,7 +1,7 @@
 ---
 title: A Fresh Perspective on Responsive Web Design
 subtitle: Notes from HEWeb2015
-date: 2015-10-05 08:30
+date: "2015-10-05"
 author: Kevin D. Sherman
 tags: [heweb15]
 ---

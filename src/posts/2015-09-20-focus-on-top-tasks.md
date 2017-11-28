@@ -2,7 +2,8 @@
 title: Focus on Top Tasks
 subtitle: There's a River Running Wild That Will Create
 author: Kevin D. Sherman
-date: 2015-09-20 12:00
+date: "2015-09-20"
+tags: [heweb15]
 ---
 
 I love these funny explanations for sysmbols that we see often. On the left if for clothing tags, the right from a car's dashboard. For our customers, sometimes I wonder if this is how our customers or vistors on the website interpret our main navigation items!

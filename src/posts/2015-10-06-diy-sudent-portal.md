@@ -1,7 +1,7 @@
 ---
 title: Building a DIY Student Portal from Scratch
 subtitle: Notes from HEWeb2015
-date: 2015-10-06 15:00
+date: "2015-10-06"
 author: Kevin D. Sherman
 tags: [heweb15]
 ---

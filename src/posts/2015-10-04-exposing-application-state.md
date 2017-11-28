@@ -1,7 +1,7 @@
 ---
 title: Exposing Application State to Assistive Technologies with WAI-ARIA
 subtitle: Notes from HEWeb2015 Technical Academy
-date: 2015-10-04 10:45
+date: "2015-10-04"
 author: Kevin D. Sherman
 tags: [heweb15]
 ---
