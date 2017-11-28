@@ -2,7 +2,7 @@
 title: Metropolis and Gotham - Different Approaches to Enterprise Site Development
 subtitle: Notes from HEWeb2015
 date: 2015-10-05 17:00
-
+author: Kevin D. Sherman
 tags: [heweb15]
 ---
 

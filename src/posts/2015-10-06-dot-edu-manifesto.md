@@ -2,6 +2,7 @@
 title: The .edu Manifesto
 subtitle: Notes from HEWeb2015
 date: 2015-10-06 08:30
+author: Kevin D. Sherman
 tags: [heweb15]
 ---
 

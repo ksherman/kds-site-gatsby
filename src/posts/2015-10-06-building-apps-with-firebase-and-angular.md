@@ -2,7 +2,7 @@
 title: Light up the Web! An Intro to Building Apps with Firebase and Angular
 subtitle: Notes from HEWeb2015
 date: 2015-10-06 10:00
-
+author: Kevin D. Sherman
 tags: [heweb15]
 ---
 

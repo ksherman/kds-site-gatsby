@@ -2,7 +2,7 @@
 title: Data Silo Smack Down Enter the EIP
 subtitle: Notes from HEWeb2015
 date: 2015-10-05 10:45
-
+author: Kevin D. Sherman
 tags: [heweb15]
 ---
 

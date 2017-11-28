@@ -2,7 +2,7 @@
 title: Website Redesign Done Right - The First Time
 subtitle: Notes from HEWeb2015
 date: 2015-10-05 09:30
-
+author: Kevin D. Sherman
 tags: [heweb15]
 ---
 

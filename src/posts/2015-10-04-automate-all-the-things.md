@@ -1,8 +1,8 @@
 ---
 title: Automate All the Things
 subtitle: Notes from HEWeb2015 Technical Academy
+author: Kevin D. Sherman
 date: 2015-10-04 13:00
-
 tags: [heweb15]
 ---
 

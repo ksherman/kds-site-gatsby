@@ -1,7 +1,8 @@
 ---
 title: On Reconsidering The Train
-subtitle: through this magnifying glass, i see a thousand finger prints on the surfaces of who i am.
-date: 2015-09-19
+subtitle: Through This Magnifying Glass, I See A Thousand Finger Prints On The Surfaces Of Who I Am.
+author: Kevin D. Sherman
+date: 2015-09-19 12:00
 ---
 
 ![Burr Ridge Panoramic](https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/images/2015/BurrRidgePano.jpg)

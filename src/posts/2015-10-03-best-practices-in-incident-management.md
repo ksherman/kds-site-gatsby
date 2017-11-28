@@ -1,8 +1,8 @@
 ---
 title: Best Practices When the $#IT Hits the Fan
 subtitle: Notes from HEWeb2015 Technical Academy
-date: 2015-10-03
-
+author: Kevin D. Sherman
+date: 2015-10-03 12:00
 tags: [heweb15]
 ---
 

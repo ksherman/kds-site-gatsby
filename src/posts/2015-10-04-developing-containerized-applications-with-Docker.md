@@ -1,6 +1,7 @@
 ---
 title: Developing Containerized Applications with Docker
 subtitle: Notes from HEWeb2015 Technical Academy
+author: Kevin D. Sherman
 date: 2015-10-04 14:45
 
 tags: [heweb15]

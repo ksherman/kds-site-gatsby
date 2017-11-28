@@ -1,7 +1,8 @@
 ---
 title: Starting Over
 subtitle: It's Still Far From Over
-date: 2015-08-15
+author: Kevin D. Sherman
+date: 2015-08-15 12:00
 ---
 
 Hello everyone! My previous post is a little over two years old and they were from my son Jack's birth. Needless to say, he's a little big these days and a ton had changed in our family since then, and professionally for me as well.
