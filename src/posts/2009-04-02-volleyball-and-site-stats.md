@@ -1,16 +1,8 @@
 ---
 title: Volleyball and Site Stats
 author: ksherman
-layout: post
-permalink: /2009/volleyball-and-site-stats/
-aktt_tweeted:
-  - 1
-  - 1
-aktt_notify_twitter:
-  - yes
-  - yes
-categories:
-  - illuminations
+date: 2009-04-02
+tags: illuminations
 ---
 ![][1]
 

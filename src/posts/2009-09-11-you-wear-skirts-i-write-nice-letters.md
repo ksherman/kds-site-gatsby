@@ -9,7 +9,7 @@ aktt_notify_twitter:
 aktt_tweeted:
   - 1
   - 1
-categories:
+tags:
   - illuminations
 ---
 Huzzah! Some pictures that I wasn't getting paid or assigned to take!!!

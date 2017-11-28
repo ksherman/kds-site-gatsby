@@ -9,7 +9,7 @@ aktt_tweeted:
 aktt_notify_twitter:
   - yes
   - yes
-categories:
+tags:
   - ruminations
 ---
 I saw a scene today that will stick with me for a while... Very sad.

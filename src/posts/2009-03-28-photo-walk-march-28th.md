@@ -1,16 +1,8 @@
 ---
 title: Photo Walk – March 28th
 author: ksherman
-
-permalink: /2009/photo-walk-march-28th/
-aktt_tweeted:
-  - 1
-  - 1
-aktt_notify_twitter:
-  - yes
-  - yes
-categories:
-  - illuminations
+date: 2009-03-28
+tags: illuminations
 ---
 Walked around on a blustry day with an old friend. Was awesome reconnecting and shooting for fun, which I haven't done in a while. Here is the fruits of my labor.
 

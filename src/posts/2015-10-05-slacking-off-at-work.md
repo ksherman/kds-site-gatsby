@@ -1,16 +1,16 @@
 ---
 title: Slacking Off At Work
-subtitle: Notes from &#35;HEWeb2015
+subtitle: Notes from HEWeb2015
 date: 2015-10-05 15:15
 layout: post_nolyric
-categories: [heweb15]
+tags: [heweb15]
 ---
 
 Slack is pretty sweet, I keep hearing about how great it is, was fun to see it in action. 
 
 These are notes from a talk by Lacy Paschal (@lacydev) titled "Slacking Off At Work" during the HighEdWeb 2015. Vanderbilt University.
 
-![Slack]({{ site.url }}/assets/heweb2015-slack.JPG)
+![Slack](https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/images/2015/heweb2015-slack.JPG)
 
 * Team that grew quickly from 2 to 12.
 * Communications and conversations were all happening, but in different applications or contexts. 

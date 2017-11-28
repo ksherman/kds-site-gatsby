@@ -9,7 +9,7 @@ aktt_tweeted:
 aktt_notify_twitter:
   - yes
   - yes
-categories:
+tags:
   - California
   - illuminations
   - ruminations

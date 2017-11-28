@@ -9,7 +9,7 @@ aktt_tweeted:
 aktt_notify_twitter:
   - yes
   - yes
-categories:
+tags:
   - illuminations
 ---
 <img class="aligncenter" title="The Moon" src="https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/2010PostsImages/10-OCT/1022_TheMoon.JPG" alt="" width="900" height="525" />

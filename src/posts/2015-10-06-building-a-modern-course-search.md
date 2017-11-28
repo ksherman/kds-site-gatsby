@@ -1,14 +1,14 @@
 ---
 title: Building a Modern Course Catalog Search
-subtitle: Notes from &#35;HEWeb2015
+subtitle: Notes from HEWeb2015
 date: 2015-10-06 14:00
 layout: post_nolyric
-categories: [heweb15]
+tags: [heweb15]
 ---
 
 These are notes from a talk by Jim Muir and Scott Mascio titled "Building a Modern Course Catalog Search" during the HighEdWeb 2015. The Ohio State University
 
-![These are notes from a talk by Jim Muir and Scott Mascio titled "Building a Modern Course Catalog Search" during the HighEdWeb 2015. The Ohio State University]({{ site.url }}/assets/heweb2015-courseSearch.JPG)
+![These are notes from a talk by Jim Muir and Scott Mascio titled "Building a Modern Course Catalog Search" during the HighEdWeb 2015. The Ohio State University](https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/images/2015/heweb2015-courseSearch.JPG)
 
 [https://classes.osu.edu/class-search/](https://classes.osu.edu/class-search/)
 
@@ -26,7 +26,7 @@ These are notes from a talk by Jim Muir and Scott Mascio titled "Building a Mode
 * NodeJS: REST API
 * AngularJS: Front-End
 * Modeled after Amazon (side filters) and Google (single search box)
-![Flow]({{ site.url }}/assets/heweb2015-courseSearch_2.JPG)
+![Flow](https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/images/2015/heweb2015-courseSearch_2.JPG)
 
 ### The Project
 * Weekly meet ups

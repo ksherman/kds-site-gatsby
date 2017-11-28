@@ -1,14 +1,14 @@
 ---
 title: Building a DIY Student Portal from Scratch
-subtitle: Notes from &#35;HEWeb2015
+subtitle: Notes from HEWeb2015
 date: 2015-10-06 15:00
 layout: post_nolyric
-categories: [heweb15]
+tags: [heweb15]
 ---
 
 These are notes from a talk by Gary Kuhlmann, Keith Warburg, Bobby Lacey and Ashley Williams titled "Building a DIY Student Portal from Scratch" during the HighEdWeb 2015. The Valdosta State University
 
-![These are notes from a talk by Gary Kuhlmann, Keith Warburg, Bobby Lacey and Ashley Williams titled "Building a DIY Student Portal from Scratch" during the HighEdWeb 2015. The Valdosta State University]({{ site.url }}/assets/heweb2015-studentPortal.JPG)
+![These are notes from a talk by Gary Kuhlmann, Keith Warburg, Bobby Lacey and Ashley Williams titled "Building a DIY Student Portal from Scratch" during the HighEdWeb 2015. The Valdosta State University](https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/images/2015/heweb2015-studentPortal.JPG)
 
 
 ### The Problem

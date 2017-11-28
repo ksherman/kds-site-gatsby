@@ -4,13 +4,13 @@ subtitle: There's a River Running Wild That Will Create
 date: 2015-09-20
 layout: post
 
-categories: 
+tags: 
 
 ---
 
 I love these funny explanations for sysmbols that we see often. On the left if for clothing tags, the right from a car's dashboard. For our customers, sometimes I wonder if this is how our customers or vistors on the website interpret our main navigation items! 
 
-![Symbols Explained]({{ site.url }}/assets/symbols.png){: style="border: 8px solid #ccc;"}
+![Symbols Explained](https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/images/2015/symbols.png){: style="border: 8px solid #ccc;"}
 
 Gerry McGovern has a pretty cool career of helping some of the largest companies in the world (and govnerments!) develop a system and process for identifying and optimizing around customers' top tasks online. I had heard his name on Twitter quite a bit over the years, but [episode 106 of The Web Ahead]() podcast was the first time I had heard from him directly. That episode is definitely worth a listen if you deal at all with building and maintaining websites. In addition to the podcast, I also read the [first chapter of his book The Stranger's Long Neck]() which clearly steps through the top-task process. 
 

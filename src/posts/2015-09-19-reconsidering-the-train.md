@@ -4,11 +4,11 @@ subtitle: through this magnifying glass, i see a thousand finger prints on the s
 date: 2015-09-19
 layout: post
 
-categories: 
+tags: 
 
 ---
 
-![Burr Ridge Panoramic]({{ site.url }}/assets/BurrRidgePano.jpg)
+![Burr Ridge Panoramic](https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/images/2015/BurrRidgePano.jpg)
 
 So as I've said, I love to listen to podcasts on my commute. There's so many excellent ones out there. 
 

@@ -9,7 +9,7 @@ aktt_notify_twitter:
 aktt_tweeted:
   - 1
   - 1
-categories:
+tags:
   - illuminations
 ---
 Sometimes I get bored with my own images. I know nearly every one of them, remember the situations I was in when I took the image, the camera I used and all that. It isn't often that I am surprised by one of my own pictures.

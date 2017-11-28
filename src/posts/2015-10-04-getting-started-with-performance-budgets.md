@@ -1,9 +1,9 @@
 ---
 title: Getting Started with Performance Budgets
-subtitle: Notes from &#35;HEWeb2015 Technical Academy
+subtitle: Notes from HEWeb2015 Technical Academy
 date: 2015-10-04 08:00
 layout: post_nolyric
-categories: [heweb15]
+tags: [heweb15]
 ---
 
 These are notes from a talk by Tim Kadlec (@tkadlec) during the HighEdWeb 2015 Technology Academy. Tim is a Technology Advocate at Akami. 

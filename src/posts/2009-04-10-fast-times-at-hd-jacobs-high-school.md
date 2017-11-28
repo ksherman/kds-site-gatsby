@@ -1,17 +1,10 @@
 ---
 title: Fast times at HD Jacobs High Schoole
 author: ksherman
-layout: post
-permalink: /2009/fast-times-at-hd-jacobs-high-school/
-aktt_tweeted:
-  - 1
-  - 1
-aktt_notify_twitter:
-  - yes
-  - yes
-categories:
-  - illuminations
+date: 2009-04-10
+tags: illuminations
 ---
+
 <p style="text-align: left;">
   Hello everyone!
 </p>

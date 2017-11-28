@@ -9,7 +9,7 @@ aktt_tweeted:
 aktt_notify_twitter:
   - yes
   - yes
-categories:
+tags:
   - illuminations
 ---
 <p style="text-align: center;">

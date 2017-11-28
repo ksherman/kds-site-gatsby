@@ -1,16 +1,16 @@
 ---
 title: Metropolis and Gotham - Different Approaches to Enterprise Site Development
-subtitle: Notes from &#35;HEWeb2015
+subtitle: Notes from HEWeb2015
 date: 2015-10-05 17:00
 layout: post_nolyric
-categories: [heweb15]
+tags: [heweb15]
 ---
 
 Whew, I don't have the stats on here, but man what a HUGE project. Like Donald Trump HUGE. 
 
 These are notes from a talk by [Jeff Stevens](https://twitter.com/kuratowa) titled "Metropolis and Gotham, A Tale of Two Cities: Two Different Approaches to Enterprise Site Development" during the HighEdWeb 2015. University of Florida Health
 
-![Slack]({{ site.url }}/assets/heweb2015-enterprise-development.JPG)
+![Slack](https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/images/2015/heweb2015-enterprise-development.JPG)
 
 * Two major projects: UFHealth.org (External Facing) & Bridge (Intranet)
 

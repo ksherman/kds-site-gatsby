@@ -1,17 +1,10 @@
 ---
 title: Split Second, a story
 author: ksherman
-
-permalink: /2009/253/
-aktt_tweeted:
-  - 1
-  - 1
-aktt_notify_twitter:
-  - yes
-  - yes
-categories:
-  - illuminations
+date: 2009-03-27
+tags: illuminations
 ---
+
 Hey Campers!
 
 I know it has been way too long since my last update, I still have been trying to get a moment to catch up on the mounds of pictures I need to get through...
@@ -22,14 +15,13 @@ The beginning and ending are weak at this point, I had to shot those parts all o
 
 Thanks for watching and let me know what you think!I promise more things will be posted as I get through them!
 
-  
 [][1]
 
 [Split Second][1] from [Kevin Sherman][2] on [Vimeo][3].
 
-Peace,  
+Peace,\
 – KS
 
- [1]: http://vimeo.com/3871715
- [2]: http://vimeo.com/user1031377
- [3]: http://vimeo.com
+[1]: http://vimeo.com/3871715
+[2]: http://vimeo.com/user1031377
+[3]: http://vimeo.com

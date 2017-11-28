@@ -1,9 +1,9 @@
 ---
 title: A Fresh Perspective on Responsive Web Design
-subtitle: Notes from &#35;HEWeb2015
+subtitle: Notes from HEWeb2015
 date: 2015-10-05 08:30
 layout: post_nolyric
-categories: [heweb15]
+tags: [heweb15]
 ---
 
 These are notes from a talk by Joshua Plameri titled "A Fresh Perspective on Responsive Web Design" during the HighEdWeb 2015. Josh works at Stony Brook university. 

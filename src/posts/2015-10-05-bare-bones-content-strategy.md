@@ -1,14 +1,14 @@
 ---
 title: Bare Bones Content Strategy - Simple Ideas for Sustainable Change on the Web
-subtitle: Notes from &#35;HEWeb2015
+subtitle: Notes from HEWeb2015
 date: 2015-10-05 11:45
 layout: post_nolyric
-categories: [heweb15]
+tags: [heweb15]
 ---
 
 These are notes from a talk by Rick Allen titled "Bare Bones Content Strategy: Simple Ideas for Sustainable Change on the Web" during the HighEdWeb 2015. From Meet Content. 
 
-![These are notes from a talk by Rick Allen titled "Bare Bones Content Strategy: Simple Ideas for Sustainable Change on the Web" during the HighEdWeb 2015. From Meet Content.]({{ site.url }}/assets/heweb2015-bbcontentstrategy.JPG)
+![These are notes from a talk by Rick Allen titled "Bare Bones Content Strategy: Simple Ideas for Sustainable Change on the Web" during the HighEdWeb 2015. From Meet Content.](https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/images/2015/heweb2015-bbcontentstrategy.JPG)
 
 * We should plan for simple.
 * Content strategy is simple. 
@@ -38,10 +38,10 @@ These are notes from a talk by Rick Allen titled "Bare Bones Content Strategy: S
 
 ### Content Creation Workflow
 * Sample
-![Content Creation Workflow]({{ site.url }}/assets/heweb2015-bbcontentstrategy_2.JPG)
+![Content Creation Workflow](https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/images/2015/heweb2015-bbcontentstrategy_2.JPG)
 * Content Guides and tools
 * Making Content Guides Relevant
-![Making Content Guides Relevant]({{ site.url }}/assets/heweb2015-bbcontentstrategy_3.JPG)
+![Making Content Guides Relevant](https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/images/2015/heweb2015-bbcontentstrategy_3.JPG)
 * Content Guides and Tools
 	* Page templates, Content Audits, Calendars, Schedules, Taxonomy, etc.
 

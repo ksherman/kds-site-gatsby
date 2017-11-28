@@ -12,7 +12,7 @@ aktt_notify_twitter:
 aktt_tweeted:
   - 1
   - 1
-categories:
+tags:
   - illuminations
   - Weddings
 ---

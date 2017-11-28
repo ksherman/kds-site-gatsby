@@ -9,7 +9,7 @@ aktt_tweeted:
 aktt_notify_twitter:
   - yes
   - yes
-categories:
+tags:
   - illuminations
 ---
 Whelp, its been quite a while since I've had new pictures to post. I shot a TON of gymnastics meets in the last six weeks or so, but can't really post those. Had a lot of fun, came away with some amazing shots and some unhappy arms.

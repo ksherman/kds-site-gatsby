@@ -5,7 +5,12 @@ import { faHome, faInfoCircle } from '@fortawesome/fontawesome-free-solid';
 
 export default props => {
   const postLinks = props.posts.map(({ node }) => (
-    <Link key={node.id} className="post-list-item" to={node.fields.slug}>
+    <Link
+      key={node.id}
+      className="post-list-item"
+      activeClassName="current-post"
+      to={node.fields.slug}
+    >
       <div className="post-title">{node.frontmatter.title}</div>
       <div
         className="post-excerpt"
@@ -30,7 +35,6 @@ export default props => {
         </div>
       </div>
       <div className="sidebar-post-navigation">
-        <h3>Posts: {props.postCount}</h3>
         <div className="post-list">{postLinks}</div>
       </div>
     </nav>

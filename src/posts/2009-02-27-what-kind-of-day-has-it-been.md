@@ -1,17 +1,10 @@
 ---
 title: What kind of day has it been?
 author: ksherman
-
-permalink: /2009/what-kind-of-day-has-it-been/
-aktt_tweeted:
-  - 1
-  - 1
-aktt_notify_twitter:
-  - yes
-  - yes
-categories:
-  - ruminations
+date: 2009-02-27
+tags: ruminations
 ---
+
 So this mostly starts with yesterday (Thursday night) and my utter inability to concentrate on anything… As a consequence, I didn’t get home until near midnight and needed to do some laundry for my trip. Long story short, I didn’t get to sleep until 2:30am and promptly awoke at 5:30am.
 
 At this point, I realized that I had utterly failed to secure a ride to the airport, so I had no idea how I was going to get there and my dad wasn’t able to answer his cellular device. Fortunately, Pete would have been able to give me a ride, but fortunately for him my dad got home as I was leaving.
@@ -32,5 +25,5 @@ I got a chance to sit down with Scott from the Tribune and had him go through my
 
 I guess that about wraps up most of today’s insanity. Here’s to hoping that tomorrow goes much smoother. I’m excited to meet more people tomorrow and getting rid of all the portfolio CDs I made and give a way a lot of business cards! Have a good night and thanks for reading my 1000 word essay.
 
-Peace  
+Peace\
 – KS

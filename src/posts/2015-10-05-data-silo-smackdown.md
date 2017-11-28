@@ -1,14 +1,14 @@
 ---
 title: Data Silo Smack Down Enter the EIP
-subtitle: Notes from &#35;HEWeb2015
+subtitle: Notes from HEWeb2015
 date: 2015-10-05 10:45
 layout: post_nolyric
-categories: [heweb15]
+tags: [heweb15]
 ---
 
 These are notes from a talk by Jim Kittle titled "Data "Silo" Smack Down: Enter the EIP" during the HighEdWeb 2015. Ohio State University. 
 
-![These are notes from a talk by Jim Kittle titled "Data "Silo" Smack Down: Enter the EIP" during the HighEdWeb 2015. Ohio State University. ]({{ site.url }}/assets/heweb2015-eip.JPG)
+![These are notes from a talk by Jim Kittle titled "Data "Silo" Smack Down: Enter the EIP" during the HighEdWeb 2015. Ohio State University. ](https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/images/2015/heweb2015-eip.JPG)
 
 * What is SMAC: Social Mobile, Analytics, Cloud; data sources from lots of sources.
 

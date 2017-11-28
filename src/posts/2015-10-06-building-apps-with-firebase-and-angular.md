@@ -1,14 +1,14 @@
 ---
 title: Light up the Web! An Intro to Building Apps with Firebase and Angular
-subtitle: Notes from &#35;HEWeb2015
+subtitle: Notes from HEWeb2015
 date: 2015-10-06 10:00
 layout: post_nolyric
-categories: [heweb15]
+tags: [heweb15]
 ---
 
 These are notes from a talk by Ryan Christie titled "Light up the Web! An Intro to Building Apps with Firebase and Angular" during the HighEdWeb 2015. Illinois State University
 
-![These are notes from a talk by Ryan Christie titled "Light up the Web! An Intro to Building Apps with Firebase and Angular" during the HighEdWeb 2015. Illinois State University]({{ site.url }}/assets/heweb2015-firebaseangular.JPG)
+![These are notes from a talk by Ryan Christie titled "Light up the Web! An Intro to Building Apps with Firebase and Angular" during the HighEdWeb 2015. Illinois State University](https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/images/2015/heweb2015-firebaseangular.JPG)
 
 [http://webisthebest.illinoisstate.edu/light-up-the-web/presentation/](http://webisthebest.illinoisstate.edu/light-up-the-web/presentation/)
 

@@ -1,9 +1,9 @@
 ---
 title: Automate All the Things
-subtitle: Notes from &#35;HEWeb2015 Technical Academy
+subtitle: Notes from HEWeb2015 Technical Academy
 date: 2015-10-04 13:00
 layout: post_nolyric
-categories: [heweb15]
+tags: [heweb15]
 ---
 
 These are notes from a talk by Jesse Beach during the HighEdWeb 2015 Technology Academy. Jesse is an accessibility specialist at Facebook. 

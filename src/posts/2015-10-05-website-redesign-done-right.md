@@ -1,14 +1,14 @@
 ---
 title: Website Redesign Done Right - The First Time
-subtitle: Notes from &#35;HEWeb2015
+subtitle: Notes from HEWeb2015
 date: 2015-10-05 09:30
 layout: post_nolyric
-categories: [heweb15]
+tags: [heweb15]
 ---
 
 These are notes from a talk by Mark Greenfield titled "Website Redesign Done Right - The First Time" during the HighEdWeb 2015. @Markgr. University at Buffalo. 
 
-![These are notes from a talk by Mark Greenfield titled "Website Redesign Done Right - The First Time" during the HighEdWeb 2015. @Markgr. University at Buffalo. ]({{ site.url }}/assets/heweb2015-markgr.JPG)
+![These are notes from a talk by Mark Greenfield titled "Website Redesign Done Right - The First Time" during the HighEdWeb 2015. @Markgr. University at Buffalo. ](https://s3-us-west-2.amazonaws.com/assets.kshermphoto.com/images/2015/heweb2015-markgr.JPG)
 
 
 ## The goal is to theoretically never have to do this again 

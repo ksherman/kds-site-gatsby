@@ -44,6 +44,7 @@ nav.navigation-wrapper {
   background-color: $color-dark;
   overflow-y: scroll;
   overflow-x: hidden;
+  position: relative;
 
   &::-webkit-scrollbar {
     width: 1rem;
@@ -55,6 +56,17 @@ nav.navigation-wrapper {
 
   &::-webkit-scrollbar-thumb {
     border: 0.5rem solid #cc0000;
+  }
+
+  .post-count {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 32rem;
+    color: white;
+    font-size: 2rem;
+    background-color: $color-dark;
+    padding: 2rem;
   }
 
   .post-list {
@@ -77,6 +89,10 @@ nav.navigation-wrapper {
         font-size: 1.4rem;
         line-height: 1.3;
         color: darken(white, 10%);
+      }
+
+      &.current-post {
+        background-color: lighten($color-dark, 5%);
       }
     }
   }
