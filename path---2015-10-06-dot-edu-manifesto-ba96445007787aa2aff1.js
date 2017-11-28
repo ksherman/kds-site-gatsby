@@ -1,0 +1,2 @@
+webpackJsonp([0xae07261b1c3b],{335:function(t,e){t.exports={pathContext:{slug:"/2015-10-06-dot-edu-manifesto/"}}}});
+//# sourceMappingURL=path---2015-10-06-dot-edu-manifesto-ba96445007787aa2aff1.js.map
