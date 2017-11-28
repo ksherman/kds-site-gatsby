@@ -35,14 +35,16 @@ export default props => {
           </Link>
           <a
             href="https://twitter.com/kd_sherm"
-            taget="_blank"
+            target="_blank"
+            rel="noopener noreferrer"
             className="link-list-item"
           >
             <FontAwesomeIcon icon={faTwitter} />
           </a>
           <a
             href="https://www.linkedin.com/in/kdsherm"
-            taget="_blank"
+            target="_blank"
+            rel="noopener noreferrer"
             className="link-list-item"
           >
             <FontAwesomeIcon icon={faLinkedin} />
