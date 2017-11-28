@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/kds-site-gatsby',
   siteMetadata: {
     title: 'KDSherm',
   },
