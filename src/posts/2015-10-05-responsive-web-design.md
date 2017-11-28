@@ -2,7 +2,7 @@
 title: A Fresh Perspective on Responsive Web Design
 subtitle: Notes from HEWeb2015
 date: 2015-10-05 08:30
-layout: post_nolyric
+
 tags: [heweb15]
 ---
 

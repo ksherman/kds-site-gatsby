@@ -2,7 +2,7 @@
 title: Bare Bones Content Strategy - Simple Ideas for Sustainable Change on the Web
 subtitle: Notes from HEWeb2015
 date: 2015-10-05 11:45
-layout: post_nolyric
+
 tags: [heweb15]
 ---
 

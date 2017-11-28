@@ -2,7 +2,7 @@
 title: Getting Started with Performance Budgets
 subtitle: Notes from HEWeb2015 Technical Academy
 date: 2015-10-04 08:00
-layout: post_nolyric
+
 tags: [heweb15]
 ---
 

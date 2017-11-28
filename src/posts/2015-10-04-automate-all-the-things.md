@@ -2,7 +2,7 @@
 title: Automate All the Things
 subtitle: Notes from HEWeb2015 Technical Academy
 date: 2015-10-04 13:00
-layout: post_nolyric
+
 tags: [heweb15]
 ---
 

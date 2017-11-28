@@ -2,7 +2,7 @@
 title: Exposing Application State to Assistive Technologies with WAI-ARIA
 subtitle: Notes from HEWeb2015 Technical Academy
 date: 2015-10-04 10:45
-layout: post_nolyric
+
 tags: [heweb15]
 ---
 

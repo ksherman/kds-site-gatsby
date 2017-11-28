@@ -2,7 +2,7 @@
 title: Personalizing the New-Student Onboarding Experience
 subtitle: Notes from HEWeb2015
 date: 2015-10-06 10:45
-layout: post_nolyric
+
 tags: [heweb15]
 ---
 

@@ -2,7 +2,7 @@
 title: Website Redesign Done Right - The First Time
 subtitle: Notes from HEWeb2015
 date: 2015-10-05 09:30
-layout: post_nolyric
+
 tags: [heweb15]
 ---
 

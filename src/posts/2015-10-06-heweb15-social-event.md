@@ -2,7 +2,7 @@
 title: -Photos- HEWEB15 Big Social Event!
 subtitle: Notes from HEWeb2015
 date: 2015-10-06 22:30
-layout: post_nolyric
+
 tags: [heweb15, illuminations]
 ---
 
