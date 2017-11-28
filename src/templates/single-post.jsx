@@ -2,7 +2,6 @@ import React from 'react';
 
 export default ({ data }) => {
   const post = data.markdownRemark;
-  console.log(post);
   return (
     <div className="single-post-wrapper">
       <h2>{post.frontmatter.title}</h2>
