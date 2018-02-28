@@ -1,2 +1,0 @@
-webpackJsonp([77249006737398],{326:function(t,e){t.exports={pathContext:{slug:"/2015-10-05-bare-bones-content-strategy/"}}}});
-//# sourceMappingURL=path---2015-10-05-bare-bones-content-strategy-ef7d14ce3c063754a60b.js.map

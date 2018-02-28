@@ -1,2 +1,0 @@
-webpackJsonp([0x70962330b0bd],{323:function(e,n){e.exports={pathContext:{slug:"/2015-10-04-developing-containerized-applications-with-Docker/"}}}});
-//# sourceMappingURL=path---2015-10-04-developing-containerized-applications-with-docker-a5b308ad5ab882b5d1f8.js.map

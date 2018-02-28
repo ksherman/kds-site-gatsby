@@ -1,120 +1,128 @@
 {
   "assetsByChunkName": {
-    "path---2015-09-19-reconsidering-the-train": [
-      "path---2015-09-19-reconsidering-the-train-8f3ceb9d2c5022939580.js",
-      "path---2015-09-19-reconsidering-the-train-8f3ceb9d2c5022939580.js.map"
+    "path---posts-2015-10-05-bare-bones-content-strategy": [
+      "path---posts-2015-10-05-bare-bones-content-strategy-bf471c9a8434fc43d780.js",
+      "path---posts-2015-10-05-bare-bones-content-strategy-bf471c9a8434fc43d780.js.map"
     ],
-    "path---2015-10-05-data-silo-smackdown": [
-      "path---2015-10-05-data-silo-smackdown-83dd936800eb69a5c501.js",
-      "path---2015-10-05-data-silo-smackdown-83dd936800eb69a5c501.js.map"
+    "path---posts-2015-10-05-data-silo-smackdown": [
+      "path---posts-2015-10-05-data-silo-smackdown-189f40309daa6eaa4b39.js",
+      "path---posts-2015-10-05-data-silo-smackdown-189f40309daa6eaa4b39.js.map"
     ],
-    "path---2015-10-05-website-redesign-done-right": [
-      "path---2015-10-05-website-redesign-done-right-bf55172cf0e7b6f60958.js",
-      "path---2015-10-05-website-redesign-done-right-bf55172cf0e7b6f60958.js.map"
+    "path---helpme": [
+      "path---helpme-621cc1ca5fa4c04e0f92.js",
+      "path---helpme-621cc1ca5fa4c04e0f92.js.map"
     ],
     "component---src-templates-single-post-jsx": [
       "component---src-templates-single-post-jsx-2089f3130a409c716969.js",
       "component---src-templates-single-post-jsx-2089f3130a409c716969.js.map"
     ],
-    "path---2015-10-04-exposing-application-state": [
-      "path---2015-10-04-exposing-application-state-14792c6ed3dcc6a3e066.js",
-      "path---2015-10-04-exposing-application-state-14792c6ed3dcc6a3e066.js.map"
+    "path---posts-2015-10-06-dot-edu-manifesto": [
+      "path---posts-2015-10-06-dot-edu-manifesto-bb2660b2245ff544d416.js",
+      "path---posts-2015-10-06-dot-edu-manifesto-bb2660b2245ff544d416.js.map"
+    ],
+    "path---posts-2015-10-05-responsive-web-design": [
+      "path---posts-2015-10-05-responsive-web-design-6196fff145fd3ca82ddb.js",
+      "path---posts-2015-10-05-responsive-web-design-6196fff145fd3ca82ddb.js.map"
     ],
     "path---": [
-      "path----b380a6a2e456d2a2b811.js",
-      "path----b380a6a2e456d2a2b811.js.map"
+      "path----e622381bd903b641f291.js",
+      "path----e622381bd903b641f291.js.map"
     ],
-    "path---2015-08-15-starting-over": [
-      "path---2015-08-15-starting-over-297bc7cabc8cad1781ee.js",
-      "path---2015-08-15-starting-over-297bc7cabc8cad1781ee.js.map"
-    ],
-    "path---2015-10-05-bare-bones-content-strategy": [
-      "path---2015-10-05-bare-bones-content-strategy-ecadbdac37432557295b.js",
-      "path---2015-10-05-bare-bones-content-strategy-ecadbdac37432557295b.js.map"
+    "path---posts-2015-10-05-website-redesign-done-right": [
+      "path---posts-2015-10-05-website-redesign-done-right-f43d9c72df4b42fe62a4.js",
+      "path---posts-2015-10-05-website-redesign-done-right-f43d9c72df4b42fe62a4.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-b723c96c2b29b3fe9e28.js",
-      "component---src-layouts-index-jsx-b723c96c2b29b3fe9e28.js.map"
+      "component---src-layouts-index-jsx-66b0855bd0daf41da1a7.js",
+      "component---src-layouts-index-jsx-66b0855bd0daf41da1a7.js.map"
     ],
-    "path---2015-10-04-developing-containerized-applications-with-docker": [
-      "path---2015-10-04-developing-containerized-applications-with-docker-43d5235051d9f9646af3.js",
-      "path---2015-10-04-developing-containerized-applications-with-docker-43d5235051d9f9646af3.js.map"
+    "path---posts-2015-10-06-building-a-modern-course-search": [
+      "path---posts-2015-10-06-building-a-modern-course-search-d23633d43aa00759e58a.js",
+      "path---posts-2015-10-06-building-a-modern-course-search-d23633d43aa00759e58a.js.map"
     ],
-    "path---2015-10-04-automate-all-the-things": [
-      "path---2015-10-04-automate-all-the-things-93829b70f9fba6da0508.js",
-      "path---2015-10-04-automate-all-the-things-93829b70f9fba6da0508.js.map"
+    "path---posts-2015-08-15-starting-over": [
+      "path---posts-2015-08-15-starting-over-5eb31ae630a6ae3a780c.js",
+      "path---posts-2015-08-15-starting-over-5eb31ae630a6ae3a780c.js.map"
     ],
-    "path---2015-09-20-focus-on-top-tasks": [
-      "path---2015-09-20-focus-on-top-tasks-6c699edd1f4e0fdc57d9.js",
-      "path---2015-09-20-focus-on-top-tasks-6c699edd1f4e0fdc57d9.js.map"
+    "path---posts-2015-09-20-focus-on-top-tasks": [
+      "path---posts-2015-09-20-focus-on-top-tasks-3eb0fd69e5fd1a432c70.js",
+      "path---posts-2015-09-20-focus-on-top-tasks-3eb0fd69e5fd1a432c70.js.map"
+    ],
+    "path---posts-2015-09-19-reconsidering-the-train": [
+      "path---posts-2015-09-19-reconsidering-the-train-d9378281d1c7423addde.js",
+      "path---posts-2015-09-19-reconsidering-the-train-d9378281d1c7423addde.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "component---src-pages-about-jsx": [
-      "component---src-pages-about-jsx-1b85fe4cdd5ed6251141.js",
-      "component---src-pages-about-jsx-1b85fe4cdd5ed6251141.js.map"
+    "path---posts-2015-10-03-best-practices-in-incident-management": [
+      "path---posts-2015-10-03-best-practices-in-incident-management-15eb5afa0c93bc87cead.js",
+      "path---posts-2015-10-03-best-practices-in-incident-management-15eb5afa0c93bc87cead.js.map"
+    ],
+    "path---posts-2015-10-05-metropolis-and-gotham": [
+      "path---posts-2015-10-05-metropolis-and-gotham-1cf7d63707dfba233e0d.js",
+      "path---posts-2015-10-05-metropolis-and-gotham-1cf7d63707dfba233e0d.js.map"
+    ],
+    "path---posts-2015-10-06-heweb-15-social-event": [
+      "path---posts-2015-10-06-heweb-15-social-event-2eec4901093ccaed5143.js",
+      "path---posts-2015-10-06-heweb-15-social-event-2eec4901093ccaed5143.js.map"
+    ],
+    "path---posts-2015-10-05-slacking-off-at-work": [
+      "path---posts-2015-10-05-slacking-off-at-work-396268ccfd1d9f3e949a.js",
+      "path---posts-2015-10-05-slacking-off-at-work-396268ccfd1d9f3e949a.js.map"
+    ],
+    "path---posts-2015-10-06-diy-sudent-portal": [
+      "path---posts-2015-10-06-diy-sudent-portal-6496f3083a0bab1f79bc.js",
+      "path---posts-2015-10-06-diy-sudent-portal-6496f3083a0bab1f79bc.js.map"
     ],
     "commons": [
-      "commons-74802f4ededa6b49223e.js",
-      "commons-74802f4ededa6b49223e.js.map"
+      "commons-8fcdb502f9066886d84a.js",
+      "commons-8fcdb502f9066886d84a.js.map"
     ],
-    "path---2015-10-04-getting-started-with-performance-budgets": [
-      "path---2015-10-04-getting-started-with-performance-budgets-6939ceb7bca8eb310464.js",
-      "path---2015-10-04-getting-started-with-performance-budgets-6939ceb7bca8eb310464.js.map"
-    ],
-    "path---2015-10-06-building-apps-with-firebase-and-angular": [
-      "path---2015-10-06-building-apps-with-firebase-and-angular-f01ac32dd8b1acd02564.js",
-      "path---2015-10-06-building-apps-with-firebase-and-angular-f01ac32dd8b1acd02564.js.map"
-    ],
-    "path---2015-10-06-dot-edu-manifesto": [
-      "path---2015-10-06-dot-edu-manifesto-0e6bd456391a82f0b243.js",
-      "path---2015-10-06-dot-edu-manifesto-0e6bd456391a82f0b243.js.map"
-    ],
-    "path---2015-10-05-responsive-web-design": [
-      "path---2015-10-05-responsive-web-design-2c0f497623f76e749474.js",
-      "path---2015-10-05-responsive-web-design-2c0f497623f76e749474.js.map"
+    "path---posts-2015-10-04-exposing-application-state": [
+      "path---posts-2015-10-04-exposing-application-state-6d74f3dae36c44b1deb9.js",
+      "path---posts-2015-10-04-exposing-application-state-6d74f3dae36c44b1deb9.js.map"
     ],
     "component---src-pages-index-jsx": [
       "component---src-pages-index-jsx-5da89a889bcda45b0ead.js",
       "component---src-pages-index-jsx-5da89a889bcda45b0ead.js.map"
     ],
-    "path---2015-10-05-slacking-off-at-work": [
-      "path---2015-10-05-slacking-off-at-work-bc2db9bb0d93b9f6e1cb.js",
-      "path---2015-10-05-slacking-off-at-work-bc2db9bb0d93b9f6e1cb.js.map"
+    "path---posts-2015-10-04-getting-started-with-performance-budgets": [
+      "path---posts-2015-10-04-getting-started-with-performance-budgets-688404af99fef65651b0.js",
+      "path---posts-2015-10-04-getting-started-with-performance-budgets-688404af99fef65651b0.js.map"
     ],
     "app": [
-      "app-7ed5dc0bee5b92916809.js",
-      "app-7ed5dc0bee5b92916809.js.map"
+      "app-baf53cc4cea2776a2f86.js",
+      "app-baf53cc4cea2776a2f86.js.map"
     ],
-    "path---2015-10-05-metropolis-and-gotham": [
-      "path---2015-10-05-metropolis-and-gotham-8c48f6a4a77873acb3c9.js",
-      "path---2015-10-05-metropolis-and-gotham-8c48f6a4a77873acb3c9.js.map"
+    "path---posts-2015-10-04-automate-all-the-things": [
+      "path---posts-2015-10-04-automate-all-the-things-9b756bc1d731ac4c867f.js",
+      "path---posts-2015-10-04-automate-all-the-things-9b756bc1d731ac4c867f.js.map"
     ],
-    "path---2015-10-06-diy-sudent-portal": [
-      "path---2015-10-06-diy-sudent-portal-b88020933b759813159e.js",
-      "path---2015-10-06-diy-sudent-portal-b88020933b759813159e.js.map"
+    "path---test-anotherpage": [
+      "path---test-anotherpage-552f10ec20f3db0bb550.js",
+      "path---test-anotherpage-552f10ec20f3db0bb550.js.map"
     ],
-    "path---2015-10-06-personalizing-the-new-student-onboarding-experience": [
-      "path---2015-10-06-personalizing-the-new-student-onboarding-experience-2517a93041ef8b5dc907.js",
-      "path---2015-10-06-personalizing-the-new-student-onboarding-experience-2517a93041ef8b5dc907.js.map"
+    "path---posts-2015-10-06-personalizing-the-new-student-onboarding-experience": [
+      "path---posts-2015-10-06-personalizing-the-new-student-onboarding-experience-9c04cbbe710e5d63ffee.js",
+      "path---posts-2015-10-06-personalizing-the-new-student-onboarding-experience-9c04cbbe710e5d63ffee.js.map"
     ],
-    "path---2015-10-06-building-a-modern-course-search": [
-      "path---2015-10-06-building-a-modern-course-search-965e726ddcb8aec4f629.js",
-      "path---2015-10-06-building-a-modern-course-search-965e726ddcb8aec4f629.js.map"
+    "component---src-templates-single-page-jsx": [
+      "component---src-templates-single-page-jsx-d20ac2107f0b90f067e1.js",
+      "component---src-templates-single-page-jsx-d20ac2107f0b90f067e1.js.map"
     ],
-    "path---2015-10-06-heweb-15-social-event": [
-      "path---2015-10-06-heweb-15-social-event-8fd4f722bb54f730bf21.js",
-      "path---2015-10-06-heweb-15-social-event-8fd4f722bb54f730bf21.js.map"
-    ],
-    "path---2015-10-03-best-practices-in-incident-management": [
-      "path---2015-10-03-best-practices-in-incident-management-0ced1a6d4fbe43d1d73b.js",
-      "path---2015-10-03-best-practices-in-incident-management-0ced1a6d4fbe43d1d73b.js.map"
+    "path---posts-2015-10-04-developing-containerized-applications-with-docker": [
+      "path---posts-2015-10-04-developing-containerized-applications-with-docker-b4c2a7988aa18734b006.js",
+      "path---posts-2015-10-04-developing-containerized-applications-with-docker-b4c2a7988aa18734b006.js.map"
     ],
     "path---about": [
-      "path---about-a33c1f4bfb6af2d2436a.js",
-      "path---about-a33c1f4bfb6af2d2436a.js.map"
+      "path---about-8defcded774777aa85af.js",
+      "path---about-8defcded774777aa85af.js.map"
+    ],
+    "path---posts-2015-10-06-building-apps-with-firebase-and-angular": [
+      "path---posts-2015-10-06-building-apps-with-firebase-and-angular-3ceed33cbb748fce6dfd.js",
+      "path---posts-2015-10-06-building-apps-with-firebase-and-angular-3ceed33cbb748fce6dfd.js.map"
     ]
   }
 }

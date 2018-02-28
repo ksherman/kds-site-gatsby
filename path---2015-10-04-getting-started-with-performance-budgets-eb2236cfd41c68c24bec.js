@@ -1,2 +1,0 @@
-webpackJsonp([0x9ee90dd0667b],{325:function(t,e){t.exports={pathContext:{slug:"/2015-10-04-getting-started-with-performance-budgets/"}}}});
-//# sourceMappingURL=path---2015-10-04-getting-started-with-performance-budgets-eb2236cfd41c68c24bec.js.map

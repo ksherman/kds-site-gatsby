@@ -1,2 +1,0 @@
-webpackJsonp([21786830712676],{331:function(e,t){e.exports={pathContext:{slug:"/2015-10-05-website-redesign-done-right/"}}}});
-//# sourceMappingURL=path---2015-10-05-website-redesign-done-right-dea2defee25797ff6c25.js.map

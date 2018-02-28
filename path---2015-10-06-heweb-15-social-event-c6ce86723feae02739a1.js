@@ -1,2 +1,0 @@
-webpackJsonp([0xea06bbd693c6],{336:function(e,t){e.exports={pathContext:{slug:"/2015-10-06-heweb15-social-event/"}}}});
-//# sourceMappingURL=path---2015-10-06-heweb-15-social-event-c6ce86723feae02739a1.js.map

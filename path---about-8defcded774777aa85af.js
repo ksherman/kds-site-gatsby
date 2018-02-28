@@ -1,0 +1,2 @@
+webpackJsonp([0xf927f8900006],{348:function(t,e){t.exports={data:{markdownRemark:{html:"<p>Does this markdown file work?</p>\n<p>Yep bruh</p>",frontmatter:{title:"About Me!",author:"Kevin D. Sherman",date:"December 15, 2017"}}},pathContext:{slug:"/about/"}}}});
+//# sourceMappingURL=path---about-8defcded774777aa85af.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xc9b81a6c39e1],{330:function(o,t){o.exports={pathContext:{slug:"/2015-10-05-slacking-off-at-work/"}}}});
-//# sourceMappingURL=path---2015-10-05-slacking-off-at-work-95ebade685881d12c64e.js.map

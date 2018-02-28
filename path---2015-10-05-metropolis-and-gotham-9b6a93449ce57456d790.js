@@ -1,2 +1,0 @@
-webpackJsonp([0xd34de8425df7],{328:function(o,t){o.exports={pathContext:{slug:"/2015-10-05-metropolis-and-gotham/"}}}});
-//# sourceMappingURL=path---2015-10-05-metropolis-and-gotham-9b6a93449ce57456d790.js.map
