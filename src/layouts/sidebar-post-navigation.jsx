@@ -13,6 +13,7 @@ export default props => {
       activeClassName="current-post"
       to={node.fields.slug}
     >
+      <div className="post-date">{node.frontmatter.date}</div>
       <div className="post-title">{node.frontmatter.title}</div>
       <div
         className="post-excerpt"

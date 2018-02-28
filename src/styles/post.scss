@@ -1,22 +1,35 @@
-.single-post-wrapper {
-  padding: 6rem;
-  overflow-y: scroll;
 
-  h2 {
-    font-size: 3rem;
-    margin: 0;
+
+.single-post {
+  
+  &-wrapper {
+    padding: 6rem;
+    overflow-y: scroll;
+  
+    h2 {
+      font-size: 3rem;
+      margin: 0;
+    }
+  
+    img {
+      max-width: 100%;
+    }
+  }
+  
+  &-author {
+    font-size: 1.5rem;
+    color: $color-dark;
   }
 
-  img {
-    max-width: 100%;
+
+  &-body {
+    font-size: 1.6rem;
   }
 }
 
-.single-post-author {
-  font-size: 1.5rem;
-  color: $color-dark;
-}
+.homepage {
 
-.single-post-body {
-  font-size: 1.6rem;
+  &-wrapper {
+    padding: 4rem 6rem;
+  }
 }

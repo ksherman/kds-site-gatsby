@@ -9,7 +9,9 @@ export default ({ children, data }) => (
       postCount={data.allMarkdownRemark.totalCount}
       posts={data.allMarkdownRemark.edges}
     />
-    {children()}
+    <div className="content-wrapper">
+      {children()}
+    </div>
   </div>
 );
 
