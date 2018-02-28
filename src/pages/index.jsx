@@ -7,6 +7,6 @@ export default () => (
 
     <p>I have just started this space back up, most of the content is a bit old but I want this to be a space for my notes on things I'm learning, am interested in, or other thoughts someone somewhere might be interested in reading!</p>
 
-    <p>You can connect with me on <a href="https://twitter.com/kd_sherm" target="_blank">Twitter</a>, learn more about my experience on <a href="https://www.linkedin.com/in/kdsherm/" target="_blank">LinkedIn</a>, or <a href="mailto:kevin@kdshermphoto.com">send me an email</a>!</p>
+    <p>You can connect with me on <a className="link" href="https://twitter.com/kd_sherm" target="_blank">Twitter</a>, learn more about my experience on <a className="link" href="https://www.linkedin.com/in/kdsherm/" target="_blank">LinkedIn</a>, or <a className="link" href="mailto:kevin@kdshermphoto.com">send me an email</a>!</p>
   </div>
 );

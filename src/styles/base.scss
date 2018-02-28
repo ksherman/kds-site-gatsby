@@ -25,3 +25,10 @@ p {
   display: grid;
   grid-template-columns: 1fr 3fr;
 }
+
+a.link {
+  display: inline-block;
+  color: blue;
+  text-decoration: underline;
+  font-weight: 500;
+}
