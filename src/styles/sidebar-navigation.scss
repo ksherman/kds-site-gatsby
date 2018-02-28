@@ -43,6 +43,7 @@ nav.navigation-wrapper {
   height: 100vh;
   background-color: $color-dark;
   overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
   overflow-x: hidden;
   position: relative;
 
