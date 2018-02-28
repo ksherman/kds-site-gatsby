@@ -30,7 +30,7 @@ export default props => {
         </Link>
         <div className="link-list">
           <Link className="link-list-item" to="/">
-            <FontAwesomeIcon icon={faHome} />
+            <FontAwesomeIcon icon={faHome} size="lg" />
           </Link>
           <a
             href="https://twitter.com/kd_sherm"
@@ -38,7 +38,7 @@ export default props => {
             rel="noopener noreferrer"
             className="link-list-item"
           >
-            <FontAwesomeIcon icon={faTwitter} />
+            <FontAwesomeIcon icon={faTwitter} size="lg" />
           </a>
           <a
             href="https://www.linkedin.com/in/kdsherm"
@@ -46,7 +46,7 @@ export default props => {
             rel="noopener noreferrer"
             className="link-list-item"
           >
-            <FontAwesomeIcon icon={faLinkedin} />
+            <FontAwesomeIcon icon={faLinkedin} size="lg" />
           </a>
         </div>
       </div>
