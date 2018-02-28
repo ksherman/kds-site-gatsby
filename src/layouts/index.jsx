@@ -1,5 +1,4 @@
 import React from 'react';
-import Link from 'gatsby-link';
 import SidebarPostNavigation from './sidebar-post-navigation';
 import '../styles/entry.scss';
 

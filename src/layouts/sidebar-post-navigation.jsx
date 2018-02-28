@@ -1,8 +1,9 @@
 import React from 'react';
 import Link from 'gatsby-link';
 import FontAwesomeIcon from '@fortawesome/react-fontawesome';
-import { faHome, faInfoCircle } from '@fortawesome/fontawesome-free-solid';
-import { faTwitter, faLinkedin } from '@fortawesome/fontawesome-free-brands';
+import faHome from '@fortawesome/fontawesome-free-solid/faHome';
+import faTwitter from '@fortawesome/fontawesome-free-brands/faTwitter';
+import faLinkedin from '@fortawesome/fontawesome-free-brands/faLinkedin';
 
 export default props => {
   const postLinks = props.posts.map(({ node }) => (
@@ -29,9 +30,6 @@ export default props => {
         <div className="link-list">
           <Link className="link-list-item" to="/">
             <FontAwesomeIcon icon={faHome} />
-          </Link>
-          <Link className="link-list-item" to="/about">
-            <FontAwesomeIcon icon={faInfoCircle} />
           </Link>
           <a
             href="https://twitter.com/kd_sherm"

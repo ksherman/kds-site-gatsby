@@ -12,12 +12,6 @@ module.exports = {
       },
     },
     'gatsby-transformer-remark',
-    {
-      resolve: 'gatsby-plugin-google-fonts',
-      options: {
-        fonts: ['Didact Gothic', 'Arimo'],
-      },
-    },
     'gatsby-plugin-sass',
   ],
 };

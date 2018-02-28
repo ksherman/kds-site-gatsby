@@ -15,7 +15,7 @@ exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
 
 exports.createPages = ({ graphql, boundActionCreators }) => {
   const { createPage } = boundActionCreators;
-  return new Promise((resolve, reject) => {
+  return new Promise((resolve) => {
     graphql(`
       {
         allMarkdownRemark {
@@ -30,7 +30,6 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
       }
     `).then(result => {
       result.data.allMarkdownRemark.edges.map(({ node }) => {
-        console.log(node);
         if (node.fields.slug.includes('/posts/')) {
           createPage({
             path: node.fields.slug,
@@ -48,6 +47,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
             },
           });
         }
+        return false;
       });
       resolve();
     });
